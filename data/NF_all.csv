@@ -461,7 +461,7 @@ Week,Show Type,Title,Country,Genre,Release Date,Netflix Original,IMDb Rating,Rot
 12,TV Show,Love is Blind,United States of America,Reality-Show,2/13/2020,TRUE,56,70,CZE,https://flixpatrol.com/title/love-is-blind-2020,Europe,2020,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 11,Movie,Spenser Confidential,United States of America,Crime,3/6/2020,TRUE,71,37,CZE,https://flixpatrol.com/title/spenser-confidential,Europe,2020,3,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 11,TV Show,Love is Blind,United States of America,Reality-Show,2/13/2020,TRUE,56,70,CZE,https://flixpatrol.com/title/love-is-blind-2020,Europe,2020,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-37,Documentary,Sky Tour: The Movie,Vietnam,Documentary,6/12/2020,FALSE,55,0,VNM,https://flixpatrol.com/title/sky-tour-the-movie,Asia,2020,6,97338583,1,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,
 37,TV Show,Doctor Stranger,South Korea,Drama,5/5/2014,FALSE,76,0,VNM,https://flixpatrol.com/title/doctor-stranger,Asia,2014,5,51640000,193,"4,065","2,838","1,227",7,21%,64.5,109,35
 36,Movie,Catch Me If You Can,United States of America,Drama,12/25/2002,FALSE,80,96,VNM,https://flixpatrol.com/title/catch-me-if-you-can,Asia,2002,12,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 36,TV Show,The World of the Married,South Korea,Unknown,3/27/2020,FALSE,0,0,VNM,https://flixpatrol.com/title/the-world-of-the-married,Asia,2020,3,51640000,193,"4,065","2,838","1,227",7,21%,64.5,109,35
@@ -642,25 +642,25 @@ Week,Show Type,Title,Country,Genre,Release Date,Netflix Original,IMDb Rating,Rot
 34,TV Show,Greenleaf,United States of America,Drama,6/21/2016,TRUE,73,82,NGA,https://flixpatrol.com/title/greenleaf,Africa,2016,6,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 33,Movie,Work It,United States of America,Comedy,8/7/2020,TRUE,61,0,NGA,https://flixpatrol.com/title/work-it-2020,Africa,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 33,TV Show,The Umbrella Academy,United States of America,Superhero,2/15/2019,TRUE,83,82,NGA,https://flixpatrol.com/title/the-umbrella-academy,Africa,2019,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-32,Movie,Fix Us,Ghana,Unknown,1/1/1900,FALSE,0,0,NGA,https://flixpatrol.com/title/fix-us,Africa,1900,1,31072945,1,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,
 32,TV Show,The Umbrella Academy,United States of America,Superhero,2/15/2019,TRUE,83,82,NGA,https://flixpatrol.com/title/the-umbrella-academy,Africa,2019,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-31,Movie,It’s Her Day,Nigeria,Situation,1/1/1900,FALSE,0,0,NGA,https://flixpatrol.com/title/its-her-day,Africa,1900,1,206139587,6,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,
 31,TV Show,Cursed,United States of America,Fantasy,7/17/2020,TRUE,51,69,NGA,https://flixpatrol.com/title/cursed-2020,Africa,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-30,Movie,The Millions,Nigeria,Drama,8/30/2019,FALSE,68,0,NGA,https://flixpatrol.com/title/the-millions,Africa,2019,8,206139587,6,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,
 30,TV Show,Cursed,United States of America,Fantasy,7/17/2020,TRUE,51,69,NGA,https://flixpatrol.com/title/cursed-2020,Africa,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 29,Movie,The Old Guard,United States of America,Superhero,7/10/2020,TRUE,82,80,NGA,https://flixpatrol.com/title/the-old-guard,Africa,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 29,TV Show,Warrior Nun,United States of America,Fantasy,7/2/2020,TRUE,69,0,NGA,https://flixpatrol.com/title/warrior-nun,Africa,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-28,Movie,Sugar Rush,Nigeria,Comedy,12/25/2019,FALSE,75,0,NGA,https://flixpatrol.com/title/sugar-rush-2019,Africa,2019,12,206139587,6,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,
 28,TV Show,Warrior Nun,United States of America,Fantasy,7/2/2020,TRUE,69,0,NGA,https://flixpatrol.com/title/warrior-nun,Africa,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-27,Movie,Kasanova,Nigeria,Drama,9/13/2019,FALSE,0,0,NGA,https://flixpatrol.com/title/kasanova,Africa,2019,9,206139587,6,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,
 27,TV Show,The King: Eternal Monarch,South Korea,Fantasy,4/17/2020,TRUE,87,0,NGA,https://flixpatrol.com/title/the-king-eternal-monarch,Africa,2020,4,51640000,193,"4,065","2,838","1,227",7,21%,64.5,109,35
-26,Movie,Elevator Baby,Nigeria,Drama,1/1/2019,FALSE,70,0,NGA,https://flixpatrol.com/title/elevator-baby,Africa,2019,1,206139587,6,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,
 26,TV Show,The King: Eternal Monarch,South Korea,Fantasy,4/17/2020,TRUE,87,0,NGA,https://flixpatrol.com/title/the-king-eternal-monarch,Africa,2020,4,51640000,193,"4,065","2,838","1,227",7,21%,64.5,109,35
 25,Movie,365 Days,Poland,Romance,6/7/2020,FALSE,35,0,NGA,https://flixpatrol.com/title/365-days,Africa,2020,6,37846605,145,"3,398","2,317","1,081",6.98,24%,64,54,29
 25,TV Show,The King: Eternal Monarch,South Korea,Fantasy,4/17/2020,TRUE,87,0,NGA,https://flixpatrol.com/title/the-king-eternal-monarch,Africa,2020,4,51640000,193,"4,065","2,838","1,227",7,21%,64.5,109,35
 24,Movie,365 Days,Poland,Romance,6/7/2020,FALSE,35,0,NGA,https://flixpatrol.com/title/365-days,Africa,2020,6,37846605,145,"3,398","2,317","1,081",6.98,24%,64,54,29
 24,TV Show,The King: Eternal Monarch,South Korea,Fantasy,4/17/2020,TRUE,87,0,NGA,https://flixpatrol.com/title/the-king-eternal-monarch,Africa,2020,4,51640000,193,"4,065","2,838","1,227",7,21%,64.5,109,35
-23,Movie,Living In Bondage: Breaking Free,Nigeria,Drama,11/8/2019,FALSE,0,0,NGA,https://flixpatrol.com/title/living-in-bondage-breaking-free,Africa,2019,11,206139587,6,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,
 23,TV Show,The King: Eternal Monarch,South Korea,Fantasy,4/17/2020,TRUE,87,0,NGA,https://flixpatrol.com/title/the-king-eternal-monarch,Africa,2020,4,51640000,193,"4,065","2,838","1,227",7,21%,64.5,109,35
 37,Movie,I'm Thinking of Ending Things,United States of America,Thriller,9/4/2020,TRUE,88,85,RUS,https://flixpatrol.com/title/im-thinking-of-ending-things,Europe,2020,9,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 37,TV Show,Away,United States of America,Science Fiction,9/4/2020,TRUE,71,73,RUS,https://flixpatrol.com/title/away-2020,Europe,2020,9,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
@@ -1408,7 +1408,7 @@ Week,Show Type,Title,Country,Genre,Release Date,Netflix Original,IMDb Rating,Rot
 17,TV Show,Too Hot to Handle,United States of America,Reality-Show,4/17/2020,TRUE,42,37,SGP,https://flixpatrol.com/title/too-hot-to-handle,Asia,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 16,Movie,Love. Wedding. Repeat,Italy,Comedy,4/10/2020,TRUE,55,34,SGP,https://flixpatrol.com/title/love-wedding-repeat,Asia,2020,4,60461828,23,"3,526","2,452","1,074",7.05,26%,63.7,73,29
 16,TV Show,"Hi Bye, Mama!",South Korea,Drama,4/25/2020,TRUE,82,0,SGP,https://flixpatrol.com/title/hi-bye-mama,Asia,2020,4,51640000,193,"4,065","2,838","1,227",7,21%,64.5,109,35
-15,Movie,Kung Fu Jungle,China,Thriller,10/31/2014,FALSE,65,0,SGP,https://flixpatrol.com/title/kung-fu-jungle,Asia,2014,10,1439323774,1,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,
 15,TV Show,Money Heist,Spain,Action,5/2/2017,TRUE,84,93,SGP,https://flixpatrol.com/title/money-heist,Asia,2017,5,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
 14,Movie,Fantastic Four,United States of America,Superhero,8/7/2015,FALSE,43,9,SGP,https://flixpatrol.com/title/fantastic-four-2015,Asia,2015,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 14,TV Show,Itaewon Class,South Korea,Drama,1/31/2020,TRUE,84,93,SGP,https://flixpatrol.com/title/itaewon-class,Asia,2020,1,51640000,193,"4,065","2,838","1,227",7,21%,64.5,109,35
@@ -1956,9 +1956,9 @@ Week,Show Type,Title,Country,Genre,Release Date,Netflix Original,IMDb Rating,Rot
 19,Documentary TV,The Last Dance,United States of America,Documentary,4/19/2020,TRUE,94,97,DOM,https://flixpatrol.com/title/the-last-dance,North & South America,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 18,Movie,Extraction,United States of America,Action,4/24/2020,TRUE,70,68,DOM,https://flixpatrol.com/title/extraction-2020,North & South America,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 18,TV Show,Never Have I Ever,United States of America,Comedy,4/27/2020,TRUE,78,98,DOM,https://flixpatrol.com/title/never-have-i-ever,North & South America,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-17,Movie,Que Leones,Dominican Republic,Unknown,11/28/2019,FALSE,51,0,DOM,https://flixpatrol.com/title/que-leones,North & South America,2019,11,10847904,2,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,
 17,TV Show,El Dragón: Return of a Warrior,Mexico,Action,10/4/2019,TRUE,70,0,DOM,https://flixpatrol.com/title/el-dragon-return-of-a-warrior,North & South America,2019,10,128932753,85,"4,316","2,958","1,358",7.05,25%,63.9,59,30
-16,Movie,Que Leones,Dominican Republic,Unknown,11/28/2019,FALSE,51,0,DOM,https://flixpatrol.com/title/que-leones,North & South America,2019,11,10847904,2,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,
 16,TV Show,Blindspot,United States of America,Crime,9/21/2015,FALSE,74,0,DOM,https://flixpatrol.com/title/blindspot-2015,North & South America,2015,9,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 15,Movie,Journey 2: The Mysterious Island,United States of America,Adventure,2/10/2012,FALSE,58,43,DOM,https://flixpatrol.com/title/journey-2-the-mysterious-island,North & South America,2012,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 15,TV Show,Money Heist,Spain,Action,5/2/2017,TRUE,84,93,DOM,https://flixpatrol.com/title/money-heist,North & South America,2017,5,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
