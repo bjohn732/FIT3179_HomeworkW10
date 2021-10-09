@@ -1,487 +1,486 @@
 Week,Show Type,Title,Country,Genre,Release Date,Netflix Original,IMDb Rating,Rotten Tomatoes Rating,Country Chart,Link,Continent,Release Year,Release Month,Population,Trend Count,Total Titles Available on Netflix,Total Films,Total TV Shows,Avg. IMDb Audience Ranking,Titles with IMDB Score >8,Avg. Metacritic Critics Score,Number of Academy Award-winners,Emmy Award-winners
 37,Movie,#Alive,South Korea,Horror,9/8/2020,FALSE,62,86,PAK,https://flixpatrol.com/title/alive-2020,Asia,2020,9,51640000,193,"4,065","2,838","1,227",7,21%,64.5,109,35
 37,TV Show,Resurrection: Ertugrul,Turkey,Unknown,12/11/2014,FALSE,78,0,PAK,https://flixpatrol.com/title/resurrection-ertugrul-2014,Asia,2014,12,84339067,44,"2,812","1,878",634,7.03,26%,62.6,47,30
-36,Movie,Aquaman,United States of America,Superhero,12/7/2018,FALSE,77,65,PAK,https://flixpatrol.com/title/aquaman,Asia,2018,12,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-36,TV Show,Resurrection: Ertugrul,Turkey,Unknown,12/11/2014,FALSE,78,0,PAK,https://flixpatrol.com/title/resurrection-ertugrul-2014,Asia,2014,12,84339067,44,"2,812","1,878",634,7.03,26%,62.6,47,30
-35,Movie,Class of '83,India,Drama,8/21/2020,FALSE,0,20,PAK,https://flixpatrol.com/title/class-of-83,Asia,2020,8,1380004385,21,"5,591","3,781","1,810",7.12,26%,63.8,65,30
-35,TV Show,Lucifer,United States of America,Superhero,1/25/2016,TRUE,83,87,PAK,https://flixpatrol.com/title/lucifer,Asia,2016,1,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 37,Movie,"Love, Guaranteed",United States of America,Comedy,9/3/2020,TRUE,55,50,CHE,https://flixpatrol.com/title/love-guaranteed,Europe,2020,9,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 37,TV Show,Away,United States of America,Science Fiction,9/4/2020,TRUE,71,73,CHE,https://flixpatrol.com/title/away-2020,Europe,2020,9,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-36,Movie,Aquaman,United States of America,Superhero,12/7/2018,FALSE,77,65,CHE,https://flixpatrol.com/title/aquaman,Europe,2018,12,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-36,TV Show,Cobra Kai,United States of America,Action,5/2/2018,FALSE,88,94,CHE,https://flixpatrol.com/title/cobra-kai,Europe,2018,5,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-35,Movie,Venom,United States of America,Superhero,10/3/2018,FALSE,71,29,CHE,https://flixpatrol.com/title/venom-2018,Europe,2018,10,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-35,TV Show,Lucifer,United States of America,Superhero,1/25/2016,TRUE,83,87,CHE,https://flixpatrol.com/title/lucifer,Europe,2016,1,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-34,Movie,Project Power,United States of America,Action,8/14/2020,TRUE,61,63,CHE,https://flixpatrol.com/title/project-power,Europe,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-34,TV Show,The Umbrella Academy,United States of America,Superhero,2/15/2019,TRUE,83,82,CHE,https://flixpatrol.com/title/the-umbrella-academy,Europe,2019,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-33,Movie,Work It,United States of America,Comedy,8/7/2020,TRUE,61,0,CHE,https://flixpatrol.com/title/work-it-2020,Europe,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-33,TV Show,The Umbrella Academy,United States of America,Superhero,2/15/2019,TRUE,83,82,CHE,https://flixpatrol.com/title/the-umbrella-academy,Europe,2019,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-32,Movie,The Kissing Booth 2,United Kingdom,Romance,7/24/2020,TRUE,62,28,CHE,https://flixpatrol.com/title/the-kissing-booth-2,Europe,2020,7,67886004,150,"5,673","3,831","1,842",6.97,24%,61.7,59,31
-32,TV Show,The Umbrella Academy,United States of America,Superhero,2/15/2019,TRUE,83,82,CHE,https://flixpatrol.com/title/the-umbrella-academy,Europe,2019,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-31,Movie,The Kissing Booth 2,United Kingdom,Romance,7/24/2020,TRUE,62,28,CHE,https://flixpatrol.com/title/the-kissing-booth-2,Europe,2020,7,67886004,150,"5,673","3,831","1,842",6.97,24%,61.7,59,31
-31,TV Show,The Umbrella Academy,United States of America,Superhero,2/15/2019,TRUE,83,82,CHE,https://flixpatrol.com/title/the-umbrella-academy,Europe,2019,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-30,Movie,Fantastic Beasts: The Crimes of Grindelwald,United Kingdom,Fantasy,11/14/2018,FALSE,70,40,CHE,https://flixpatrol.com/title/fantastic-beasts-the-crimes-of-grindelwald,Europe,2018,11,67886004,150,"5,673","3,831","1,842",6.97,24%,61.7,59,31
-30,TV Show,Cursed,United States of America,Fantasy,7/17/2020,TRUE,51,69,CHE,https://flixpatrol.com/title/cursed-2020,Europe,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-29,Movie,The Old Guard,United States of America,Superhero,7/10/2020,TRUE,82,80,CHE,https://flixpatrol.com/title/the-old-guard,Europe,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-29,TV Show,Snowpiercer,United States of America,Science Fiction,5/17/2020,TRUE,61,62,CHE,https://flixpatrol.com/title/snowpiercer-2020,Europe,2020,5,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-28,Movie,Desperados,United States of America,Comedy,7/3/2020,TRUE,51,15,CHE,https://flixpatrol.com/title/desperados-2020,Europe,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-28,TV Show,Warrior Nun,United States of America,Fantasy,7/2/2020,TRUE,69,0,CHE,https://flixpatrol.com/title/warrior-nun,Europe,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-27,Movie,365 Days,Poland,Romance,6/7/2020,FALSE,35,0,CHE,https://flixpatrol.com/title/365-days,Europe,2020,6,37846605,145,"3,398","2,317","1,081",6.98,24%,64,54,29
-27,TV Show,The Blacklist,United States of America,Crime,9/23/2013,TRUE,81,91,CHE,https://flixpatrol.com/title/the-blacklist,Europe,2013,9,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-26,Movie,365 Days,Poland,Romance,6/7/2020,FALSE,35,0,CHE,https://flixpatrol.com/title/365-days,Europe,2020,6,37846605,145,"3,398","2,317","1,081",6.98,24%,64,54,29
-26,TV Show,The Sinner,United States of America,Crime,8/2/2017,TRUE,80,90,CHE,https://flixpatrol.com/title/the-sinner,Europe,2017,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-25,Movie,365 Days,Poland,Romance,6/7/2020,FALSE,35,0,CHE,https://flixpatrol.com/title/365-days,Europe,2020,6,37846605,145,"3,398","2,317","1,081",6.98,24%,64,54,29
-25,TV Show,Rick and Morty,United States of America,Animated,12/2/2013,FALSE,93,0,CHE,https://flixpatrol.com/title/rick-and-morty,Europe,2013,12,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-24,Movie,365 Days,Poland,Romance,6/7/2020,FALSE,35,0,CHE,https://flixpatrol.com/title/365-days,Europe,2020,6,37846605,145,"3,398","2,317","1,081",6.98,24%,64,54,29
-24,TV Show,13 Reasons Why,United States of America,Drama,3/31/2017,TRUE,84,39,CHE,https://flixpatrol.com/title/13-reasons-why,Europe,2017,3,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-23,Movie,War for the Planet of the Apes,United States of America,Science Fiction,7/11/2017,FALSE,75,93,CHE,https://flixpatrol.com/title/war-for-the-planet-of-the-apes,Europe,2017,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-23,TV Show,Space Force,United States of America,Comedy,5/29/2020,TRUE,70,41,CHE,https://flixpatrol.com/title/space-force,Europe,2020,5,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-22,Movie,8 Mile,United States of America,Drama,11/8/2002,FALSE,70,76,CHE,https://flixpatrol.com/title/8-mile,Europe,2002,11,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-22,TV Show,Dynasty,United States of America,Drama,10/11/2017,TRUE,59,80,CHE,https://flixpatrol.com/title/dynasty-2017,Europe,2017,10,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-21,Movie,The Wrong Missy,United States of America,Comedy,5/13/2020,TRUE,56,25,CHE,https://flixpatrol.com/title/the-wrong-missy,Europe,2020,5,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-21,TV Show,White Lines,United Kingdom,Crime,5/15/2020,TRUE,61,64,CHE,https://flixpatrol.com/title/white-lines,Europe,2020,5,67886004,150,"5,673","3,831","1,842",6.97,24%,61.7,59,31
-20,Movie,The Wrong Missy,United States of America,Comedy,5/13/2020,TRUE,56,25,CHE,https://flixpatrol.com/title/the-wrong-missy,Europe,2020,5,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-20,Documentary TV,The Last Dance,United States of America,Documentary,4/19/2020,TRUE,94,97,CHE,https://flixpatrol.com/title/the-last-dance,Europe,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-19,Movie,Dangerous Lies,United States of America,Thriller,4/30/2020,TRUE,57,41,CHE,https://flixpatrol.com/title/dangerous-lies,Europe,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-19,Documentary TV,The Last Dance,United States of America,Documentary,4/19/2020,TRUE,94,97,CHE,https://flixpatrol.com/title/the-last-dance,Europe,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-18,Movie,Extraction,United States of America,Action,4/24/2020,TRUE,70,68,CHE,https://flixpatrol.com/title/extraction-2020,Europe,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-18,TV Show,Never Have I Ever,United States of America,Comedy,4/27/2020,TRUE,78,98,CHE,https://flixpatrol.com/title/never-have-i-ever,Europe,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-17,Movie,Rising High,Germany,Comedy,4/17/2020,TRUE,61,0,CHE,https://flixpatrol.com/title/rising-high,Europe,2020,4,83783945,84,"3,995","2,763","1,232",7.01,24%,62.9,62,32
-17,TV Show,Too Hot to Handle,United States of America,Reality-Show,4/17/2020,TRUE,42,37,CHE,https://flixpatrol.com/title/too-hot-to-handle,Europe,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-16,Movie,The Meg,United States of America,Horror,8/10/2018,FALSE,67,46,CHE,https://flixpatrol.com/title/the-meg,Europe,2018,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-16,TV Show,Money Heist,Spain,Action,5/2/2017,TRUE,84,93,CHE,https://flixpatrol.com/title/money-heist,Europe,2017,5,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
-15,Documentary,Money Heist: The Phenomenon,Spain,Documentary,4/3/2020,TRUE,78,0,CHE,https://flixpatrol.com/title/money-heist-the-phenomenon,Europe,2020,4,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
-15,TV Show,Money Heist,Spain,Action,5/2/2017,TRUE,84,93,CHE,https://flixpatrol.com/title/money-heist,Europe,2017,5,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
-14,Movie,The Platform,Spain,Science Fiction,3/20/2020,TRUE,73,0,CHE,https://flixpatrol.com/title/the-platform,Europe,2020,3,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
-14,TV Show,Unorthodox,Germany,Drama,3/26/2020,TRUE,75,95,CHE,https://flixpatrol.com/title/unorthodox,Europe,2020,3,83783945,84,"3,995","2,763","1,232",7.01,24%,62.9,62,32
-13,Movie,The Platform,Spain,Science Fiction,3/20/2020,TRUE,73,0,CHE,https://flixpatrol.com/title/the-platform,Europe,2020,3,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
-13,TV Show,Elite,Spain,Crime,10/5/2018,TRUE,76,97,CHE,https://flixpatrol.com/title/elite,Europe,2018,10,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
 37,Movie,Skyscraper,United States of America,Action,7/4/2018,FALSE,61,48,SAU,https://flixpatrol.com/title/skyscraper,Asia,2018,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 37,TV Show,Lucifer,United States of America,Superhero,1/25/2016,TRUE,83,87,SAU,https://flixpatrol.com/title/lucifer,Asia,2016,1,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-36,Movie,Santana,South Africa,Action,8/28/2020,FALSE,39,0,SAU,https://flixpatrol.com/title/santana,Asia,2020,8,59308690,17,"4,987","3,278","1,709",7.09,27%,62.7,55,31
-36,TV Show,Lucifer,United States of America,Superhero,1/25/2016,TRUE,83,87,SAU,https://flixpatrol.com/title/lucifer,Asia,2016,1,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-35,Movie,Project Power,United States of America,Action,8/14/2020,TRUE,61,63,SAU,https://flixpatrol.com/title/project-power,Asia,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-35,TV Show,Lucifer,United States of America,Superhero,1/25/2016,TRUE,83,87,SAU,https://flixpatrol.com/title/lucifer,Asia,2016,1,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-34,Movie,Project Power,United States of America,Action,8/14/2020,TRUE,61,63,SAU,https://flixpatrol.com/title/project-power,Asia,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-34,TV Show,Locked Up,Spain,Drama,4/20/2015,TRUE,83,100,SAU,https://flixpatrol.com/title/locked-up,Asia,2015,4,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
-33,Movie,Work It,United States of America,Comedy,8/7/2020,TRUE,61,0,SAU,https://flixpatrol.com/title/work-it-2020,Asia,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-33,TV Show,Locked Up,Spain,Drama,4/20/2015,TRUE,83,100,SAU,https://flixpatrol.com/title/locked-up,Asia,2015,4,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
-32,Movie,Jumanji: Welcome to the Jungle,United States of America,Adventure,12/20/2017,FALSE,69,76,SAU,https://flixpatrol.com/title/jumanji-welcome-to-the-jungle,Asia,2017,12,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-32,TV Show,Locked Up,Spain,Drama,4/20/2015,TRUE,83,100,SAU,https://flixpatrol.com/title/locked-up,Asia,2015,4,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
-31,Movie,The Kissing Booth 2,United Kingdom,Romance,7/24/2020,TRUE,62,28,SAU,https://flixpatrol.com/title/the-kissing-booth-2,Asia,2020,7,67886004,150,"5,673","3,831","1,842",6.97,24%,61.7,59,31
-31,TV Show,Good Girls,United States of America,Comedy,2/26/2018,TRUE,78,87,SAU,https://flixpatrol.com/title/good-girls,Asia,2018,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-30,Movie,MILF,France,Comedy,5/2/2018,FALSE,0,14,SAU,https://flixpatrol.com/title/milf-2018,Asia,2018,5,65273512,50,"3,978","2,639","1,339",7.07,26%,63.6,54,32
-30,TV Show,Dark Desire,Mexico,Drama,7/15/2020,TRUE,75,0,SAU,https://flixpatrol.com/title/dark-desire,Asia,2020,7,128932753,85,"4,316","2,958","1,358",7.05,25%,63.9,59,30
-29,Movie,The Old Guard,United States of America,Superhero,7/10/2020,TRUE,82,80,SAU,https://flixpatrol.com/title/the-old-guard,Asia,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-29,TV Show,Queen of the South,United States of America,Drama,6/23/2016,FALSE,77,0,SAU,https://flixpatrol.com/title/queen-of-the-south,Asia,2016,6,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-28,Movie,The Mask,United States of America,Comedy,7/29/1994,FALSE,69,77,SAU,https://flixpatrol.com/title/the-mask,Asia,1994,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-28,TV Show,Dark,Germany,Mystery,12/1/2017,TRUE,87,94,SAU,https://flixpatrol.com/title/dark-2017,Asia,2017,12,83783945,84,"3,995","2,763","1,232",7.01,24%,62.9,62,32
-27,Movie,The Mask,United States of America,Comedy,7/29/1994,FALSE,69,77,SAU,https://flixpatrol.com/title/the-mask,Asia,1994,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-27,TV Show,Dark,Germany,Mystery,12/1/2017,TRUE,87,94,SAU,https://flixpatrol.com/title/dark-2017,Asia,2017,12,83783945,84,"3,995","2,763","1,232",7.01,24%,62.9,62,32
-26,Movie,Lost Bullet,France,Crime,6/19/2020,TRUE,62,0,SAU,https://flixpatrol.com/title/lost-bullet,Asia,2020,6,65273512,50,"3,978","2,639","1,339",7.07,26%,63.6,54,32
-26,TV Show,The King: Eternal Monarch,South Korea,Fantasy,4/17/2020,TRUE,87,0,SAU,https://flixpatrol.com/title/the-king-eternal-monarch,Asia,2020,4,51640000,193,"4,065","2,838","1,227",7,21%,64.5,109,35
 37,Movie,The Emoji Movie,United States of America,Animated,7/28/2017,FALSE,14,8,NIC,https://flixpatrol.com/title/the-emoji-movie,North & South America,2017,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 37,TV Show,Her Mother's Killer,Colombia,Unknown,1/1/2020,FALSE,0,0,NIC,https://flixpatrol.com/title/her-mothers-killer,North & South America,2020,1,50882884,51,"4,282","2,932","1,350",7.05,25%,64,58,29
-36,Movie,The Emoji Movie,United States of America,Animated,7/28/2017,FALSE,14,8,NIC,https://flixpatrol.com/title/the-emoji-movie,North & South America,2017,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-36,TV Show,Her Mother's Killer,Colombia,Unknown,1/1/2020,FALSE,0,0,NIC,https://flixpatrol.com/title/her-mothers-killer,North & South America,2020,1,50882884,51,"4,282","2,932","1,350",7.05,25%,64,58,29
-35,Movie,Escape Plan,United States of America,Action,11/13/2013,FALSE,68,49,NIC,https://flixpatrol.com/title/escape-plan,North & South America,2013,11,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-35,TV Show,Lucifer,United States of America,Superhero,1/25/2016,TRUE,83,87,NIC,https://flixpatrol.com/title/lucifer,North & South America,2016,1,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-34,Movie,An Easy Girl,France,Drama,8/28/2019,TRUE,54,0,NIC,https://flixpatrol.com/title/an-easy-girl,North & South America,2019,8,65273512,50,"3,978","2,639","1,339",7.07,26%,63.6,54,32
-34,TV Show,Yo soy Betty la fea,Colombia,Unknown,10/25/1999,FALSE,81,0,NIC,https://flixpatrol.com/title/yo-soy-betty-la-fea,North & South America,1999,10,50882884,51,"4,282","2,932","1,350",7.05,25%,64,58,29
-33,Movie,Work It,United States of America,Comedy,8/7/2020,TRUE,61,0,NIC,https://flixpatrol.com/title/work-it-2020,North & South America,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-33,TV Show,The Seven Deadly Sins,Japan,Animation,10/5/2014,TRUE,82,0,NIC,https://flixpatrol.com/title/the-seven-deadly-sins,North & South America,2014,10,126476458,25,"5,065","3,518","1,547",6.98,22%,63.1,78,33
-32,Movie,Wonder,United States of America,Drama,11/13/2017,FALSE,80,93,NIC,https://flixpatrol.com/title/wonder,North & South America,2017,11,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-32,TV Show,Locked Up,Spain,Drama,4/20/2015,TRUE,83,100,NIC,https://flixpatrol.com/title/locked-up,North & South America,2015,4,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
-31,Movie,The Kissing Booth 2,United Kingdom,Romance,7/24/2020,TRUE,62,28,NIC,https://flixpatrol.com/title/the-kissing-booth-2,North & South America,2020,7,67886004,150,"5,673","3,831","1,842",6.97,24%,61.7,59,31
-31,TV Show,Dark Desire,Mexico,Drama,7/15/2020,TRUE,75,0,NIC,https://flixpatrol.com/title/dark-desire,North & South America,2020,7,128932753,85,"4,316","2,958","1,358",7.05,25%,63.9,59,30
-30,Movie,MILF,France,Comedy,5/2/2018,FALSE,0,14,NIC,https://flixpatrol.com/title/milf-2018,North & South America,2018,5,65273512,50,"3,978","2,639","1,339",7.07,26%,63.6,54,32
-30,TV Show,Dark Desire,Mexico,Drama,7/15/2020,TRUE,75,0,NIC,https://flixpatrol.com/title/dark-desire,North & South America,2020,7,128932753,85,"4,316","2,958","1,358",7.05,25%,63.9,59,30
-29,Movie,The Old Guard,United States of America,Superhero,7/10/2020,TRUE,82,80,NIC,https://flixpatrol.com/title/the-old-guard,North & South America,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-29,TV Show,Dark Desire,Mexico,Drama,7/15/2020,TRUE,75,0,NIC,https://flixpatrol.com/title/dark-desire,North & South America,2020,7,128932753,85,"4,316","2,958","1,358",7.05,25%,63.9,59,30
-28,Movie,American Assassin,United States of America,Action,9/14/2017,FALSE,70,35,NIC,https://flixpatrol.com/title/american-assassin,North & South America,2017,9,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-28,TV Show,Dark,Germany,Mystery,12/1/2017,TRUE,87,94,NIC,https://flixpatrol.com/title/dark-2017,North & South America,2017,12,83783945,84,"3,995","2,763","1,232",7.01,24%,62.9,62,32
-27,Movie,Wonder Woman,United States of America,Animated,3/3/2009,FALSE,74,0,NIC,https://flixpatrol.com/title/wonder-woman,North & South America,2009,3,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-27,TV Show,Dark,Germany,Mystery,12/1/2017,TRUE,87,94,NIC,https://flixpatrol.com/title/dark-2017,North & South America,2017,12,83783945,84,"3,995","2,763","1,232",7.01,24%,62.9,62,32
-26,Movie,Wonder Woman,United States of America,Superhero,5/30/2017,FALSE,75,93,NIC,https://flixpatrol.com/title/wonder-woman,North & South America,2017,5,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-26,TV Show,Dark,Germany,Mystery,12/1/2017,TRUE,87,94,NIC,https://flixpatrol.com/title/dark-2017,North & South America,2017,12,83783945,84,"3,995","2,763","1,232",7.01,24%,62.9,62,32
 37,Movie,Aquaman,United States of America,Superhero,12/7/2018,FALSE,77,65,NZE,https://flixpatrol.com/title/aquaman,Oceania,2018,12,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 37,TV Show,Away,United States of America,Science Fiction,9/4/2020,TRUE,71,73,NZE,https://flixpatrol.com/title/away-2020,Oceania,2020,9,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-36,Movie,Wonder,United States of America,Drama,11/13/2017,FALSE,80,93,NZE,https://flixpatrol.com/title/wonder,Oceania,2017,11,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-36,TV Show,Cobra Kai,United States of America,Action,5/2/2018,FALSE,88,94,NZE,https://flixpatrol.com/title/cobra-kai,Oceania,2018,5,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-35,Movie,The Sleepover,United States of America,Comedy,8/21/2020,TRUE,55,80,NZE,https://flixpatrol.com/title/the-sleepover,Oceania,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-35,TV Show,Lucifer,United States of America,Superhero,1/25/2016,TRUE,83,87,NZE,https://flixpatrol.com/title/lucifer,Oceania,2016,1,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-34,Movie,Project Power,United States of America,Action,8/14/2020,TRUE,61,63,NZE,https://flixpatrol.com/title/project-power,Oceania,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-34,TV Show,The Umbrella Academy,United States of America,Superhero,2/15/2019,TRUE,83,82,NZE,https://flixpatrol.com/title/the-umbrella-academy,Oceania,2019,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-33,Movie,Work It,United States of America,Comedy,8/7/2020,TRUE,61,0,NZE,https://flixpatrol.com/title/work-it-2020,Oceania,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-33,TV Show,The Umbrella Academy,United States of America,Superhero,2/15/2019,TRUE,83,82,NZE,https://flixpatrol.com/title/the-umbrella-academy,Oceania,2019,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-32,Movie,Latte and the Magic Waterstone,Germany,Animated,12/11/2019,FALSE,56,0,NZE,https://flixpatrol.com/title/latte-and-the-magic-waterstone,Oceania,2019,12,83783945,84,"3,995","2,763","1,232",7.01,24%,62.9,62,32
-32,TV Show,The Umbrella Academy,United States of America,Superhero,2/15/2019,TRUE,83,82,NZE,https://flixpatrol.com/title/the-umbrella-academy,Oceania,2019,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-31,Movie,Mortal Engines,United States of America,Science Fiction,11/27/2018,FALSE,64,28,NZE,https://flixpatrol.com/title/mortal-engines,Oceania,2018,11,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-31,TV Show,Good Girls,United States of America,Comedy,2/26/2018,TRUE,78,87,NZE,https://flixpatrol.com/title/good-girls,Oceania,2018,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-30,Movie,The Grinch,United States of America,Animated,11/8/2018,FALSE,63,58,NZE,https://flixpatrol.com/title/dr-seuss-how-the-grinch-stole-christmas,Oceania,2018,11,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-30,TV Show,Cursed,United States of America,Fantasy,7/17/2020,TRUE,51,69,NZE,https://flixpatrol.com/title/cursed-2020,Oceania,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-29,Movie,"10,000 BC",United States of America,Adventure,3/5/2008,FALSE,51,0,NZE,https://flixpatrol.com/title/10000-bc,Oceania,2008,3,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-29,TV Show,Warrior Nun,United States of America,Fantasy,7/2/2020,TRUE,69,0,NZE,https://flixpatrol.com/title/warrior-nun,Oceania,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-28,Movie,Spider-Man: Homecoming,United States of America,Superhero,7/5/2017,FALSE,75,92,NZE,https://flixpatrol.com/title/spider-man-homecoming,Oceania,2017,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-28,TV Show,Warrior Nun,United States of America,Fantasy,7/2/2020,TRUE,69,0,NZE,https://flixpatrol.com/title/warrior-nun,Oceania,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-27,Movie,Eurovision Song Contest: The Story of Fire Saga,United States of America,Comedy,6/26/2020,TRUE,78,63,NZE,https://flixpatrol.com/title/eurovision-song-contest-the-story-of-fire-saga,Oceania,2020,6,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-27,TV Show,The Sinner,United States of America,Crime,8/2/2017,TRUE,80,90,NZE,https://flixpatrol.com/title/the-sinner,Oceania,2017,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-26,Movie,2 Guns,United States of America,Action,8/2/2013,FALSE,68,64,NZE,https://flixpatrol.com/title/2-guns,Oceania,2013,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-26,TV Show,The Sinner,United States of America,Crime,8/2/2017,TRUE,80,90,NZE,https://flixpatrol.com/title/the-sinner,Oceania,2017,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-25,Movie,365 Days,Poland,Romance,6/7/2020,FALSE,35,0,NZE,https://flixpatrol.com/title/365-days,Oceania,2020,6,37846605,145,"3,398","2,317","1,081",6.98,24%,64,54,29
-25,TV Show,Marcella,United Kingdom,Crime,4/4/2016,TRUE,74,65,NZE,https://flixpatrol.com/title/marcella,Oceania,2016,4,67886004,150,"5,673","3,831","1,842",6.97,24%,61.7,59,31
-24,Movie,365 Days,Poland,Romance,6/7/2020,FALSE,35,0,NZE,https://flixpatrol.com/title/365-days,Oceania,2020,6,37846605,145,"3,398","2,317","1,081",6.98,24%,64,54,29
-24,TV Show,13 Reasons Why,United States of America,Drama,3/31/2017,TRUE,84,39,NZE,https://flixpatrol.com/title/13-reasons-why,Oceania,2017,3,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-23,Movie,King Arthur: Legend of the Sword,United States of America,Fantasy,3/22/2017,FALSE,67,31,NZE,https://flixpatrol.com/title/king-arthur-legend-of-the-sword,Oceania,2017,3,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-23,TV Show,Space Force,United States of America,Comedy,5/29/2020,TRUE,70,41,NZE,https://flixpatrol.com/title/space-force,Oceania,2020,5,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-22,Movie,The Meg,United States of America,Horror,8/10/2018,FALSE,67,46,NZE,https://flixpatrol.com/title/the-meg,Oceania,2018,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-22,TV Show,White Lines,United Kingdom,Crime,5/15/2020,TRUE,61,64,NZE,https://flixpatrol.com/title/white-lines,Oceania,2020,5,67886004,150,"5,673","3,831","1,842",6.97,24%,61.7,59,31
-21,Movie,Night School,United States of America,Comedy,9/27/2018,FALSE,56,27,NZE,https://flixpatrol.com/title/night-school-2018,Oceania,2018,9,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-21,Documentary TV,The Last Dance,United States of America,Documentary,4/19/2020,TRUE,94,97,NZE,https://flixpatrol.com/title/the-last-dance,Oceania,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-20,Movie,The Wrong Missy,United States of America,Comedy,5/13/2020,TRUE,56,25,NZE,https://flixpatrol.com/title/the-wrong-missy,Oceania,2020,5,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-20,Documentary TV,The Last Dance,United States of America,Documentary,4/19/2020,TRUE,94,97,NZE,https://flixpatrol.com/title/the-last-dance,Oceania,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-19,Movie,Dangerous Lies,United States of America,Thriller,4/30/2020,TRUE,57,41,NZE,https://flixpatrol.com/title/dangerous-lies,Oceania,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-19,Documentary TV,The Last Dance,United States of America,Documentary,4/19/2020,TRUE,94,97,NZE,https://flixpatrol.com/title/the-last-dance,Oceania,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-18,Movie,Extraction,United States of America,Action,4/24/2020,TRUE,70,68,NZE,https://flixpatrol.com/title/extraction-2020,Oceania,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-18,TV Show,Never Have I Ever,United States of America,Comedy,4/27/2020,TRUE,78,98,NZE,https://flixpatrol.com/title/never-have-i-ever,Oceania,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-17,Movie,Furious 7,United States of America,Action,4/3/2015,FALSE,74,80,NZE,https://flixpatrol.com/title/furious-7,Oceania,2015,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-17,TV Show,Too Hot to Handle,United States of America,Reality-Show,4/17/2020,TRUE,42,37,NZE,https://flixpatrol.com/title/too-hot-to-handle,Oceania,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-16,Movie,Code 8,Canada,Science Fiction,12/6/2019,FALSE,61,79,NZE,https://flixpatrol.com/title/code-8,Oceania,2019,12,37742157,13,"5,730","4,043","1,687",6.95,23%,61.4,66,30
-16,Documentary TV,"Tiger King: Murder, Mayhem and Madness",United States of America,Documentary,3/20/2020,TRUE,81,0,NZE,https://flixpatrol.com/title/tiger-king-murder-mayhem-and-madness,Oceania,2020,3,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-15,Movie,Coffee & Kareem,United States of America,Comedy,4/3/2020,TRUE,50,19,NZE,https://flixpatrol.com/title/coffee-kareem,Oceania,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-15,Documentary TV,"Tiger King: Murder, Mayhem and Madness",United States of America,Documentary,3/20/2020,TRUE,81,0,NZE,https://flixpatrol.com/title/tiger-king-murder-mayhem-and-madness,Oceania,2020,3,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-14,Movie,Coffee & Kareem,United States of America,Comedy,4/3/2020,TRUE,50,19,NZE,https://flixpatrol.com/title/coffee-kareem,Oceania,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-14,Documentary TV,"Tiger King: Murder, Mayhem and Madness",United States of America,Documentary,3/20/2020,TRUE,81,0,NZE,https://flixpatrol.com/title/tiger-king-murder-mayhem-and-madness,Oceania,2020,3,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 37,Movie,A Million Ways to Die in the West,United States of America,Comedy,5/30/2014,FALSE,61,33,DNK,https://flixpatrol.com/title/a-million-ways-to-die-in-the-west,Europe,2014,5,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 37,TV Show,Young Wallander,Sweden,Crime,9/3/2020,TRUE,69,0,DNK,https://flixpatrol.com/title/young-wallander,Europe,2020,9,10099270,5,"3,579","2,481","1,098",7.03,24%,63.4,69,33
-36,Movie,Joker,United States of America,Superhero,10/2/2019,FALSE,89,68,DNK,https://flixpatrol.com/title/joker-2019,Europe,2019,10,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-36,TV Show,Cobra Kai,United States of America,Action,5/2/2018,FALSE,88,94,DNK,https://flixpatrol.com/title/cobra-kai,Europe,2018,5,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-35,Movie,Project Power,United States of America,Action,8/14/2020,TRUE,61,63,DNK,https://flixpatrol.com/title/project-power,Europe,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-35,TV Show,Lucifer,United States of America,Superhero,1/25/2016,TRUE,83,87,DNK,https://flixpatrol.com/title/lucifer,Europe,2016,1,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-34,Movie,Project Power,United States of America,Action,8/14/2020,TRUE,61,63,DNK,https://flixpatrol.com/title/project-power,Europe,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-34,TV Show,Brooklyn Nine-Nine,United States of America,Comedy,9/17/2013,FALSE,83,97,DNK,https://flixpatrol.com/title/brooklyn-nine-nine,Europe,2013,9,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-33,Movie,Work It,United States of America,Comedy,8/7/2020,TRUE,61,0,DNK,https://flixpatrol.com/title/work-it-2020,Europe,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-33,TV Show,Brooklyn Nine-Nine,United States of America,Comedy,9/17/2013,FALSE,83,97,DNK,https://flixpatrol.com/title/brooklyn-nine-nine,Europe,2013,9,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-32,Movie,Work It,United States of America,Comedy,8/7/2020,TRUE,61,0,DNK,https://flixpatrol.com/title/work-it-2020,Europe,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-32,TV Show,The Umbrella Academy,United States of America,Superhero,2/15/2019,TRUE,83,82,DNK,https://flixpatrol.com/title/the-umbrella-academy,Europe,2019,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-31,Movie,The Kissing Booth 2,United Kingdom,Romance,7/24/2020,TRUE,62,28,DNK,https://flixpatrol.com/title/the-kissing-booth-2,Europe,2020,7,67886004,150,"5,673","3,831","1,842",6.97,24%,61.7,59,31
-31,TV Show,Modern Family,United States of America,Comedy,9/23/2009,FALSE,84,0,DNK,https://flixpatrol.com/title/modern-family,Europe,2009,9,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-30,Movie,Venom,United States of America,Superhero,10/3/2018,FALSE,71,29,DNK,https://flixpatrol.com/title/venom-2018,Europe,2018,10,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-30,TV Show,Cursed,United States of America,Fantasy,7/17/2020,TRUE,51,69,DNK,https://flixpatrol.com/title/cursed-2020,Europe,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-29,Movie,The Old Guard,United States of America,Superhero,7/10/2020,TRUE,82,80,DNK,https://flixpatrol.com/title/the-old-guard,Europe,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-29,TV Show,Warrior Nun,United States of America,Fantasy,7/2/2020,TRUE,69,0,DNK,https://flixpatrol.com/title/warrior-nun,Europe,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-28,Movie,It: Chapter 2,United States of America,Horror,9/5/2019,FALSE,70,63,DNK,https://flixpatrol.com/title/it-chapter-2,Europe,2019,9,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-28,TV Show,Warrior Nun,United States of America,Fantasy,7/2/2020,TRUE,69,0,DNK,https://flixpatrol.com/title/warrior-nun,Europe,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-27,Movie,The Son of Bigfoot,Belgium,Animated,7/27/2017,FALSE,61,75,DNK,https://flixpatrol.com/title/the-son-of-bigfoot,Europe,2017,7,11589616,5,"4,121","2,777","1,344",7.05,26%,62.4,62,30
-27,TV Show,Unsolved Mysteries,United States of America,Documentary,7/1/2020,TRUE,80,74,DNK,https://flixpatrol.com/title/unsolved-mysteries-2020,Europe,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-26,Movie,The Equalizer 2,United States of America,Action,7/19/2018,FALSE,71,51,DNK,https://flixpatrol.com/title/the-equalizer-2,Europe,2018,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-26,TV Show,The Order,United States of America,Fantasy,3/7/2019,TRUE,69,100,DNK,https://flixpatrol.com/title/the-order-2019,Europe,2019,3,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-25,Movie,365 Days,Poland,Romance,6/7/2020,FALSE,35,0,DNK,https://flixpatrol.com/title/365-days,Europe,2020,6,37846605,145,"3,398","2,317","1,081",6.98,24%,64,54,29
-25,TV Show,Alexa & Katie,United States of America,Comedy,3/23/2018,TRUE,75,88,DNK,https://flixpatrol.com/title/alexa-katie,Europe,2018,3,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-24,Movie,365 Days,Poland,Romance,6/7/2020,FALSE,35,0,DNK,https://flixpatrol.com/title/365-days,Europe,2020,6,37846605,145,"3,398","2,317","1,081",6.98,24%,64,54,29
-24,TV Show,13 Reasons Why,United States of America,Drama,3/31/2017,TRUE,84,39,DNK,https://flixpatrol.com/title/13-reasons-why,Europe,2017,3,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-23,Movie,Get Hard,United States of America,Comedy,3/27/2015,FALSE,61,29,DNK,https://flixpatrol.com/title/get-hard,Europe,2015,3,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-23,TV Show,Space Force,United States of America,Comedy,5/29/2020,TRUE,70,41,DNK,https://flixpatrol.com/title/space-force,Europe,2020,5,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-22,Movie,Johnny English Strikes Again,United Kingdom,Comedy,9/13/2018,FALSE,66,34,DNK,https://flixpatrol.com/title/johnny-english-3,Europe,2018,9,67886004,150,"5,673","3,831","1,842",6.97,24%,61.7,59,31
-22,TV Show,Snowpiercer,United States of America,Science Fiction,5/17/2020,TRUE,61,62,DNK,https://flixpatrol.com/title/snowpiercer-2020,Europe,2020,5,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-21,Movie,Bumblebee,United States of America,Science Fiction,12/15/2018,FALSE,73,93,DNK,https://flixpatrol.com/title/bumblebee,Europe,2018,12,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-21,Documentary TV,The Last Dance,United States of America,Documentary,4/19/2020,TRUE,94,97,DNK,https://flixpatrol.com/title/the-last-dance,Europe,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-20,Movie,The Wrong Missy,United States of America,Comedy,5/13/2020,TRUE,56,25,DNK,https://flixpatrol.com/title/the-wrong-missy,Europe,2020,5,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-20,Documentary TV,The Last Dance,United States of America,Documentary,4/19/2020,TRUE,94,97,DNK,https://flixpatrol.com/title/the-last-dance,Europe,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-19,Movie,Focus,United States of America,Crime,2/27/2015,FALSE,66,56,DNK,https://flixpatrol.com/title/focus,Europe,2015,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-19,Documentary TV,The Last Dance,United States of America,Documentary,4/19/2020,TRUE,94,97,DNK,https://flixpatrol.com/title/the-last-dance,Europe,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-18,Movie,Extraction,United States of America,Action,4/24/2020,TRUE,70,68,DNK,https://flixpatrol.com/title/extraction-2020,Europe,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-18,TV Show,Never Have I Ever,United States of America,Comedy,4/27/2020,TRUE,78,98,DNK,https://flixpatrol.com/title/never-have-i-ever,Europe,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-17,Movie,Extraction,United States of America,Action,4/24/2020,TRUE,70,68,DNK,https://flixpatrol.com/title/extraction-2020,Europe,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-17,TV Show,Too Hot to Handle,United States of America,Reality-Show,4/17/2020,TRUE,42,37,DNK,https://flixpatrol.com/title/too-hot-to-handle,Europe,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-16,Movie,Code 8,Canada,Science Fiction,12/6/2019,FALSE,61,79,DNK,https://flixpatrol.com/title/code-8,Europe,2019,12,37742157,13,"5,730","4,043","1,687",6.95,23%,61.4,66,30
-16,Documentary TV,"Tiger King: Murder, Mayhem and Madness",United States of America,Documentary,3/20/2020,TRUE,81,0,DNK,https://flixpatrol.com/title/tiger-king-murder-mayhem-and-madness,Europe,2020,3,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-15,Movie,Coffee & Kareem,United States of America,Comedy,4/3/2020,TRUE,50,19,DNK,https://flixpatrol.com/title/coffee-kareem,Europe,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-15,Documentary TV,"Tiger King: Murder, Mayhem and Madness",United States of America,Documentary,3/20/2020,TRUE,81,0,DNK,https://flixpatrol.com/title/tiger-king-murder-mayhem-and-madness,Europe,2020,3,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-14,Movie,Godzilla: King of the Monsters,United States of America,Science Fiction,5/29/2019,FALSE,67,43,DNK,https://flixpatrol.com/title/godzilla-king-of-the-monsters-2019,Europe,2019,5,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-14,Documentary TV,"Tiger King: Murder, Mayhem and Madness",United States of America,Documentary,3/20/2020,TRUE,81,0,DNK,https://flixpatrol.com/title/tiger-king-murder-mayhem-and-madness,Europe,2020,3,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-13,Movie,The Platform,Spain,Science Fiction,3/20/2020,TRUE,73,0,DNK,https://flixpatrol.com/title/the-platform,Europe,2020,3,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
-13,Documentary TV,"Tiger King: Murder, Mayhem and Madness",United States of America,Documentary,3/20/2020,TRUE,81,0,DNK,https://flixpatrol.com/title/tiger-king-murder-mayhem-and-madness,Europe,2020,3,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 37,Movie,#Alive,South Korea,Horror,9/8/2020,FALSE,62,86,ARE,https://flixpatrol.com/title/alive-2020,Asia,2020,9,51640000,193,"4,065","2,838","1,227",7,21%,64.5,109,35
 37,TV Show,Away,United States of America,Science Fiction,9/4/2020,TRUE,71,73,ARE,https://flixpatrol.com/title/away-2020,Asia,2020,9,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-36,Movie,Skyscraper,United States of America,Action,7/4/2018,FALSE,61,48,ARE,https://flixpatrol.com/title/skyscraper,Asia,2018,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-36,TV Show,Lucifer,United States of America,Superhero,1/25/2016,TRUE,83,87,ARE,https://flixpatrol.com/title/lucifer,Asia,2016,1,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-35,Movie,Project Power,United States of America,Action,8/14/2020,TRUE,61,63,ARE,https://flixpatrol.com/title/project-power,Asia,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-35,TV Show,Lucifer,United States of America,Superhero,1/25/2016,TRUE,83,87,ARE,https://flixpatrol.com/title/lucifer,Asia,2016,1,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 37,Movie,Zengo,Turkey,Comedy,3/6/2020,FALSE,26,0,TUR,https://flixpatrol.com/title/zengo,Asia,2020,3,84339067,44,"2,812","1,878",634,7.03,26%,62.6,47,30
 37,TV Show,Lucifer,United States of America,Superhero,1/25/2016,TRUE,83,87,TUR,https://flixpatrol.com/title/lucifer,Asia,2016,1,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-36,Movie,Zengo,Turkey,Comedy,3/6/2020,FALSE,26,0,TUR,https://flixpatrol.com/title/zengo,Asia,2020,3,84339067,44,"2,812","1,878",634,7.03,26%,62.6,47,30
-36,TV Show,Lucifer,United States of America,Superhero,1/25/2016,TRUE,83,87,TUR,https://flixpatrol.com/title/lucifer,Asia,2016,1,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-35,Movie,Baba Parasi,Turkey,Comedy,1/1/2020,FALSE,0,0,TUR,https://flixpatrol.com/title/baba-parasi,Asia,2020,1,84339067,44,"2,812","1,878",634,7.03,26%,62.6,47,30
-35,TV Show,Lucifer,United States of America,Superhero,1/25/2016,TRUE,83,87,TUR,https://flixpatrol.com/title/lucifer,Asia,2016,1,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-34,Movie,Baba Parasi,Turkey,Comedy,1/1/2020,FALSE,0,0,TUR,https://flixpatrol.com/title/baba-parasi,Asia,2020,1,84339067,44,"2,812","1,878",634,7.03,26%,62.6,47,30
-34,TV Show,Behzat Ç.,Turkey,Crime,9/19/2010,FALSE,0,0,TUR,https://flixpatrol.com/title/behzat-ç-bir-ankara-polisiyesi,Asia,2010,9,84339067,44,"2,812","1,878",634,7.03,26%,62.6,47,30
-33,Movie,The Pocket Hercules Naim,Turkey,Drama,11/22/2019,FALSE,86,0,TUR,https://flixpatrol.com/title/the-pocket-hercules-naim,Asia,2019,11,84339067,44,"2,812","1,878",634,7.03,26%,62.6,47,30
-33,TV Show,The Umbrella Academy,United States of America,Superhero,2/15/2019,TRUE,83,82,TUR,https://flixpatrol.com/title/the-umbrella-academy,Asia,2019,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-32,Movie,Bayi Toplantisi,Turkey,Comedy,2/20/2020,FALSE,48,0,TUR,https://flixpatrol.com/title/bayi-toplantisi,Asia,2020,2,84339067,44,"2,812","1,878",634,7.03,26%,62.6,47,30
-32,TV Show,The Umbrella Academy,United States of America,Superhero,2/15/2019,TRUE,83,82,TUR,https://flixpatrol.com/title/the-umbrella-academy,Asia,2019,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-31,Movie,Bayi Toplantisi,Turkey,Comedy,2/20/2020,FALSE,48,0,TUR,https://flixpatrol.com/title/bayi-toplantisi,Asia,2020,2,84339067,44,"2,812","1,878",634,7.03,26%,62.6,47,30
-31,TV Show,Cursed,United States of America,Fantasy,7/17/2020,TRUE,51,69,TUR,https://flixpatrol.com/title/cursed-2020,Asia,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-30,Movie,MILF,France,Comedy,5/2/2018,FALSE,0,14,TUR,https://flixpatrol.com/title/milf-2018,Asia,2018,5,65273512,50,"3,978","2,639","1,339",7.07,26%,63.6,54,32
-30,TV Show,Cursed,United States of America,Fantasy,7/17/2020,TRUE,51,69,TUR,https://flixpatrol.com/title/cursed-2020,Asia,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-29,Movie,The Old Guard,United States of America,Superhero,7/10/2020,TRUE,82,80,TUR,https://flixpatrol.com/title/the-old-guard,Asia,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-29,TV Show,Exatlon Challenge,Turkey,Unknown,7/3/2020,FALSE,0,0,TUR,https://flixpatrol.com/title/exatlon-challenge,Asia,2020,7,84339067,44,"2,812","1,878",634,7.03,26%,62.6,47,30
-28,Movie,Eltilerin Savaşi,Turkey,Comedy,1/31/2020,FALSE,60,0,TUR,https://flixpatrol.com/title/eltilerin-savaşi,Asia,2020,1,84339067,44,"2,812","1,878",634,7.03,26%,62.6,47,30
-28,TV Show,Exatlon Challenge,Turkey,Unknown,7/3/2020,FALSE,0,0,TUR,https://flixpatrol.com/title/exatlon-challenge,Asia,2020,7,84339067,44,"2,812","1,878",634,7.03,26%,62.6,47,30
-27,Movie,Silence Is Welcome,Mexico,Drama,3/15/2017,FALSE,46,0,TUR,https://flixpatrol.com/title/silence-is-welcome,Asia,2017,3,128932753,85,"4,316","2,958","1,358",7.05,25%,63.9,59,30
-27,TV Show,Dark,Germany,Mystery,12/1/2017,TRUE,87,94,TUR,https://flixpatrol.com/title/dark-2017,Asia,2017,12,83783945,84,"3,995","2,763","1,232",7.01,24%,62.9,62,32
-26,Movie,One-Way to Tomorrow,Turkey,Comedy,6/19/2020,TRUE,59,0,TUR,https://flixpatrol.com/title/one-way-to-tomorrow,Asia,2020,6,84339067,44,"2,812","1,878",634,7.03,26%,62.6,47,30
-26,TV Show,Snowpiercer,United States of America,Science Fiction,5/17/2020,TRUE,61,62,TUR,https://flixpatrol.com/title/snowpiercer-2020,Asia,2020,5,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-25,Movie,Biz Böyleyiz,Turkey,Drama,1/1/2020,FALSE,61,0,TUR,https://flixpatrol.com/title/biz-boyleyiz,Asia,2020,1,84339067,44,"2,812","1,878",634,7.03,26%,62.6,47,30
-25,TV Show,Snowpiercer,United States of America,Science Fiction,5/17/2020,TRUE,61,62,TUR,https://flixpatrol.com/title/snowpiercer-2020,Asia,2020,5,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-24,Movie,365 Days,Poland,Romance,6/7/2020,FALSE,35,0,TUR,https://flixpatrol.com/title/365-days,Asia,2020,6,37846605,145,"3,398","2,317","1,081",6.98,24%,64,54,29
-24,TV Show,Snowpiercer,United States of America,Science Fiction,5/17/2020,TRUE,61,62,TUR,https://flixpatrol.com/title/snowpiercer-2020,Asia,2020,5,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-23,Movie,Overnight Republic,Turkey,Comedy,4/20/2017,FALSE,59,0,TUR,https://flixpatrol.com/title/overnight-republic,Asia,2017,4,84339067,44,"2,812","1,878",634,7.03,26%,62.6,47,30
-23,TV Show,Snowpiercer,United States of America,Science Fiction,5/17/2020,TRUE,61,62,TUR,https://flixpatrol.com/title/snowpiercer-2020,Asia,2020,5,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-22,Movie,No Way 2,Turkey,Comedy,1/1/2016,FALSE,0,0,TUR,https://flixpatrol.com/title/no-way-2,Asia,2016,1,84339067,44,"2,812","1,878",634,7.03,26%,62.6,47,30
-22,TV Show,Snowpiercer,United States of America,Science Fiction,5/17/2020,TRUE,61,62,TUR,https://flixpatrol.com/title/snowpiercer-2020,Asia,2020,5,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-21,Movie,Portrait of a Beauty,Turkey,Horror,12/13/2019,FALSE,0,0,TUR,https://flixpatrol.com/title/portrait-of-a-beauty,Asia,2019,12,84339067,44,"2,812","1,878",634,7.03,26%,62.6,47,30
-21,Documentary TV,The Last Dance,United States of America,Documentary,4/19/2020,TRUE,94,97,TUR,https://flixpatrol.com/title/the-last-dance,Asia,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-20,Movie,Spider-Man: Homecoming,United States of America,Superhero,7/5/2017,FALSE,75,92,TUR,https://flixpatrol.com/title/spider-man-homecoming,Asia,2017,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-20,TV Show,Valeria,Spain,Drama,5/8/2020,TRUE,58,0,TUR,https://flixpatrol.com/title/valeria,Asia,2020,5,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
-19,Movie,You've Got Murder,Turkey,Crime,10/25/2019,FALSE,71,0,TUR,https://flixpatrol.com/title/youve-got-murder,Asia,2019,10,84339067,44,"2,812","1,878",634,7.03,26%,62.6,47,30
-19,TV Show,Love 101,Turkey,Comedy,4/24/2020,TRUE,74,0,TUR,https://flixpatrol.com/title/love-101,Asia,2020,4,84339067,44,"2,812","1,878",634,7.03,26%,62.6,47,30
-18,Movie,Extraction,United States of America,Action,4/24/2020,TRUE,70,68,TUR,https://flixpatrol.com/title/extraction-2020,Asia,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-18,TV Show,Love 101,Turkey,Comedy,4/24/2020,TRUE,74,0,TUR,https://flixpatrol.com/title/love-101,Asia,2020,4,84339067,44,"2,812","1,878",634,7.03,26%,62.6,47,30
-17,Movie,Recep Ivedik 6,Turkey,Comedy,11/7/2019,FALSE,28,0,TUR,https://flixpatrol.com/title/recep-ivedik-6,Asia,2019,11,84339067,44,"2,812","1,878",634,7.03,26%,62.6,47,30
-17,TV Show,Too Hot to Handle,United States of America,Reality-Show,4/17/2020,TRUE,42,37,TUR,https://flixpatrol.com/title/too-hot-to-handle,Asia,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-16,Movie,Recep Ivedik 6,Turkey,Comedy,11/7/2019,FALSE,28,0,TUR,https://flixpatrol.com/title/recep-ivedik-6,Asia,2019,11,84339067,44,"2,812","1,878",634,7.03,26%,62.6,47,30
-16,TV Show,Money Heist,Spain,Action,5/2/2017,TRUE,84,93,TUR,https://flixpatrol.com/title/money-heist,Asia,2017,5,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
-15,Documentary,Money Heist: The Phenomenon,Spain,Documentary,4/3/2020,TRUE,78,0,TUR,https://flixpatrol.com/title/money-heist-the-phenomenon,Asia,2020,4,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
-15,TV Show,Money Heist,Spain,Action,5/2/2017,TRUE,84,93,TUR,https://flixpatrol.com/title/money-heist,Asia,2017,5,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
-14,Movie,The Platform,Spain,Science Fiction,3/20/2020,TRUE,73,0,TUR,https://flixpatrol.com/title/the-platform,Asia,2020,3,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
-14,TV Show,Freud,Austria,Drama,3/15/2020,TRUE,67,50,TUR,https://flixpatrol.com/title/freud,Asia,2020,3,9006400,12,"3,878","2,690","1,188",7.03,24%,63.1,63,32
-13,Movie,Miracle in Cell No. 7,Turkey,Drama,10/10/2019,FALSE,83,0,TUR,https://flixpatrol.com/title/miracle-in-cell-no-7,Asia,2019,10,84339067,44,"2,812","1,878",634,7.03,26%,62.6,47,30
-13,TV Show,Toy Boy,Spain,Crime,9/7/2019,TRUE,65,0,TUR,https://flixpatrol.com/title/toy-boy-2019,Asia,2019,9,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
 37,Movie,"Love, Guaranteed",United States of America,Comedy,9/3/2020,TRUE,55,50,AUS,https://flixpatrol.com/title/love-guaranteed,Oceania,2020,9,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 37,TV Show,Away,United States of America,Science Fiction,9/4/2020,TRUE,71,73,AUS,https://flixpatrol.com/title/away-2020,Oceania,2020,9,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-36,Movie,Mary Queen of Scots,United Kingdom,Drama,12/21/2018,FALSE,65,62,AUS,https://flixpatrol.com/title/mary-queen-of-scots-2018,Oceania,2018,12,67886004,150,"5,673","3,831","1,842",6.97,24%,61.7,59,31
-36,TV Show,Cobra Kai,United States of America,Action,5/2/2018,FALSE,88,94,AUS,https://flixpatrol.com/title/cobra-kai,Oceania,2018,5,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-35,Movie,The Sleepover,United States of America,Comedy,8/21/2020,TRUE,55,80,AUS,https://flixpatrol.com/title/the-sleepover,Oceania,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-35,TV Show,Lucifer,United States of America,Superhero,1/25/2016,TRUE,83,87,AUS,https://flixpatrol.com/title/lucifer,Oceania,2016,1,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-34,Movie,Project Power,United States of America,Action,8/14/2020,TRUE,61,63,AUS,https://flixpatrol.com/title/project-power,Oceania,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-34,TV Show,Dirty John,United States of America,Drama,11/25/2018,TRUE,69,71,AUS,https://flixpatrol.com/title/dirty-john,Oceania,2018,11,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-33,Movie,Work It,United States of America,Comedy,8/7/2020,TRUE,61,0,AUS,https://flixpatrol.com/title/work-it-2020,Oceania,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-33,TV Show,The Umbrella Academy,United States of America,Superhero,2/15/2019,TRUE,83,82,AUS,https://flixpatrol.com/title/the-umbrella-academy,Oceania,2019,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-32,Movie,Doctor Sleep,United States of America,Horror,10/30/2019,FALSE,77,0,AUS,https://flixpatrol.com/title/doctor-sleep,Oceania,2019,10,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-32,TV Show,The Umbrella Academy,United States of America,Superhero,2/15/2019,TRUE,83,82,AUS,https://flixpatrol.com/title/the-umbrella-academy,Oceania,2019,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-31,Movie,The Kissing Booth 2,United Kingdom,Romance,7/24/2020,TRUE,62,28,AUS,https://flixpatrol.com/title/the-kissing-booth-2,Oceania,2020,7,67886004,150,"5,673","3,831","1,842",6.97,24%,61.7,59,31
-31,TV Show,Good Girls,United States of America,Comedy,2/26/2018,TRUE,78,87,AUS,https://flixpatrol.com/title/good-girls,Oceania,2018,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-30,Movie,The Grinch,United States of America,Animated,11/8/2018,FALSE,63,58,AUS,https://flixpatrol.com/title/dr-seuss-how-the-grinch-stole-christmas,Oceania,2018,11,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-30,TV Show,Cursed,United States of America,Fantasy,7/17/2020,TRUE,51,69,AUS,https://flixpatrol.com/title/cursed-2020,Oceania,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-29,Movie,The Old Guard,United States of America,Superhero,7/10/2020,TRUE,82,80,AUS,https://flixpatrol.com/title/the-old-guard,Oceania,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-29,TV Show,Warrior Nun,United States of America,Fantasy,7/2/2020,TRUE,69,0,AUS,https://flixpatrol.com/title/warrior-nun,Oceania,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-28,Movie,The Lorax,United States of America,Animated,3/1/2012,FALSE,65,53,AUS,https://flixpatrol.com/title/the-lorax,Oceania,2012,3,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-28,TV Show,Warrior Nun,United States of America,Fantasy,7/2/2020,TRUE,69,0,AUS,https://flixpatrol.com/title/warrior-nun,Oceania,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-27,Movie,Jumanji: Welcome to the Jungle,United States of America,Adventure,12/20/2017,FALSE,69,76,AUS,https://flixpatrol.com/title/jumanji-welcome-to-the-jungle,Oceania,2017,12,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-27,TV Show,The Sinner,United States of America,Crime,8/2/2017,TRUE,80,90,AUS,https://flixpatrol.com/title/the-sinner,Oceania,2017,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-26,Movie,365 Days,Poland,Romance,6/7/2020,FALSE,35,0,AUS,https://flixpatrol.com/title/365-days,Oceania,2020,6,37846605,145,"3,398","2,317","1,081",6.98,24%,64,54,29
-26,TV Show,The Sinner,United States of America,Crime,8/2/2017,TRUE,80,90,AUS,https://flixpatrol.com/title/the-sinner,Oceania,2017,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-25,Movie,365 Days,Poland,Romance,6/7/2020,FALSE,35,0,AUS,https://flixpatrol.com/title/365-days,Oceania,2020,6,37846605,145,"3,398","2,317","1,081",6.98,24%,64,54,29
-25,TV Show,13 Reasons Why,United States of America,Drama,3/31/2017,TRUE,84,39,AUS,https://flixpatrol.com/title/13-reasons-why,Oceania,2017,3,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-24,Movie,365 Days,Poland,Romance,6/7/2020,FALSE,35,0,AUS,https://flixpatrol.com/title/365-days,Oceania,2020,6,37846605,145,"3,398","2,317","1,081",6.98,24%,64,54,29
-24,TV Show,13 Reasons Why,United States of America,Drama,3/31/2017,TRUE,84,39,AUS,https://flixpatrol.com/title/13-reasons-why,Oceania,2017,3,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-23,Movie,King Arthur: Legend of the Sword,United States of America,Fantasy,3/22/2017,FALSE,67,31,AUS,https://flixpatrol.com/title/king-arthur-legend-of-the-sword,Oceania,2017,3,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-23,TV Show,Space Force,United States of America,Comedy,5/29/2020,TRUE,70,41,AUS,https://flixpatrol.com/title/space-force,Oceania,2020,5,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-22,Movie,The Kitchen,United States of America,Crime,9/20/2019,FALSE,52,21,AUS,https://flixpatrol.com/title/the-kitchen,Oceania,2019,9,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-22,Documentary TV,The Last Dance,United States of America,Documentary,4/19/2020,TRUE,94,97,AUS,https://flixpatrol.com/title/the-last-dance,Oceania,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-21,Movie,Night School,United States of America,Comedy,9/27/2018,FALSE,56,27,AUS,https://flixpatrol.com/title/night-school-2018,Oceania,2018,9,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-21,Documentary TV,The Last Dance,United States of America,Documentary,4/19/2020,TRUE,94,97,AUS,https://flixpatrol.com/title/the-last-dance,Oceania,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-20,Movie,The Wrong Missy,United States of America,Comedy,5/13/2020,TRUE,56,25,AUS,https://flixpatrol.com/title/the-wrong-missy,Oceania,2020,5,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-20,Documentary TV,The Last Dance,United States of America,Documentary,4/19/2020,TRUE,94,97,AUS,https://flixpatrol.com/title/the-last-dance,Oceania,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-19,Movie,Mission: Impossible - Fallout,United States of America,Action,7/13/2018,FALSE,80,97,AUS,https://flixpatrol.com/title/mission-impossible-fallout,Oceania,2018,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-19,Documentary TV,The Last Dance,United States of America,Documentary,4/19/2020,TRUE,94,97,AUS,https://flixpatrol.com/title/the-last-dance,Oceania,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-18,Movie,Extraction,United States of America,Action,4/24/2020,TRUE,70,68,AUS,https://flixpatrol.com/title/extraction-2020,Oceania,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-18,Documentary TV,The Last Dance,United States of America,Documentary,4/19/2020,TRUE,94,97,AUS,https://flixpatrol.com/title/the-last-dance,Oceania,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-17,Movie,Furious 7,United States of America,Action,4/3/2015,FALSE,74,80,AUS,https://flixpatrol.com/title/furious-7,Oceania,2015,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-17,TV Show,Too Hot to Handle,United States of America,Reality-Show,4/17/2020,TRUE,42,37,AUS,https://flixpatrol.com/title/too-hot-to-handle,Oceania,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-16,Movie,Code 8,Canada,Science Fiction,12/6/2019,FALSE,61,79,AUS,https://flixpatrol.com/title/code-8,Oceania,2019,12,37742157,13,"5,730","4,043","1,687",6.95,23%,61.4,66,30
-16,Documentary TV,"Tiger King: Murder, Mayhem and Madness",United States of America,Documentary,3/20/2020,TRUE,81,0,AUS,https://flixpatrol.com/title/tiger-king-murder-mayhem-and-madness,Oceania,2020,3,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-15,Movie,Coffee & Kareem,United States of America,Comedy,4/3/2020,TRUE,50,19,AUS,https://flixpatrol.com/title/coffee-kareem,Oceania,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-15,Documentary TV,"Tiger King: Murder, Mayhem and Madness",United States of America,Documentary,3/20/2020,TRUE,81,0,AUS,https://flixpatrol.com/title/tiger-king-murder-mayhem-and-madness,Oceania,2020,3,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-14,Movie,Northmen: A Viking Saga,Switzerland,Unknown,7/31/2015,FALSE,53,0,AUS,https://flixpatrol.com/title/northmen-a-viking-saga,Oceania,2015,7,8654618,1,"4,593","3,109","1,484",7.01,24%,61.6,85,34
-14,Documentary TV,"Tiger King: Murder, Mayhem and Madness",United States of America,Documentary,3/20/2020,TRUE,81,0,AUS,https://flixpatrol.com/title/tiger-king-murder-mayhem-and-madness,Oceania,2020,3,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-13,Movie,The Platform,Spain,Science Fiction,3/20/2020,TRUE,73,0,AUS,https://flixpatrol.com/title/the-platform,Oceania,2020,3,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
-13,Documentary TV,"Tiger King: Murder, Mayhem and Madness",United States of America,Documentary,3/20/2020,TRUE,81,0,AUS,https://flixpatrol.com/title/tiger-king-murder-mayhem-and-madness,Oceania,2020,3,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 37,Movie,"Love, Guaranteed",United States of America,Comedy,9/3/2020,TRUE,55,50,LTU,https://flixpatrol.com/title/love-guaranteed,Europe,2020,9,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 37,TV Show,Away,United States of America,Science Fiction,9/4/2020,TRUE,71,73,LTU,https://flixpatrol.com/title/away-2020,Europe,2020,9,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-36,Movie,Johnny English Strikes Again,United Kingdom,Comedy,9/13/2018,FALSE,66,34,LTU,https://flixpatrol.com/title/johnny-english-3,Europe,2018,9,67886004,150,"5,673","3,831","1,842",6.97,24%,61.7,59,31
-36,TV Show,Lucifer,United States of America,Superhero,1/25/2016,TRUE,83,87,LTU,https://flixpatrol.com/title/lucifer,Europe,2016,1,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-35,Movie,Project Power,United States of America,Action,8/14/2020,TRUE,61,63,LTU,https://flixpatrol.com/title/project-power,Europe,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-35,TV Show,Lucifer,United States of America,Superhero,1/25/2016,TRUE,83,87,LTU,https://flixpatrol.com/title/lucifer,Europe,2016,1,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-34,Movie,Project Power,United States of America,Action,8/14/2020,TRUE,61,63,LTU,https://flixpatrol.com/title/project-power,Europe,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-34,TV Show,The Umbrella Academy,United States of America,Superhero,2/15/2019,TRUE,83,82,LTU,https://flixpatrol.com/title/the-umbrella-academy,Europe,2019,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-33,Movie,Work It,United States of America,Comedy,8/7/2020,TRUE,61,0,LTU,https://flixpatrol.com/title/work-it-2020,Europe,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-33,TV Show,The Umbrella Academy,United States of America,Superhero,2/15/2019,TRUE,83,82,LTU,https://flixpatrol.com/title/the-umbrella-academy,Europe,2019,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-32,Movie,The Kissing Booth 2,United Kingdom,Romance,7/24/2020,TRUE,62,28,LTU,https://flixpatrol.com/title/the-kissing-booth-2,Europe,2020,7,67886004,150,"5,673","3,831","1,842",6.97,24%,61.7,59,31
-32,TV Show,The Umbrella Academy,United States of America,Superhero,2/15/2019,TRUE,83,82,LTU,https://flixpatrol.com/title/the-umbrella-academy,Europe,2019,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-31,Movie,The Kissing Booth 2,United Kingdom,Romance,7/24/2020,TRUE,62,28,LTU,https://flixpatrol.com/title/the-kissing-booth-2,Europe,2020,7,67886004,150,"5,673","3,831","1,842",6.97,24%,61.7,59,31
-31,TV Show,Cursed,United States of America,Fantasy,7/17/2020,TRUE,51,69,LTU,https://flixpatrol.com/title/cursed-2020,Europe,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-30,Movie,MILF,France,Comedy,5/2/2018,FALSE,0,14,LTU,https://flixpatrol.com/title/milf-2018,Europe,2018,5,65273512,50,"3,978","2,639","1,339",7.07,26%,63.6,54,32
-30,TV Show,Cursed,United States of America,Fantasy,7/17/2020,TRUE,51,69,LTU,https://flixpatrol.com/title/cursed-2020,Europe,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-29,Movie,The Old Guard,United States of America,Superhero,7/10/2020,TRUE,82,80,LTU,https://flixpatrol.com/title/the-old-guard,Europe,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-29,Documentary TV,The Business of Drugs,United States of America,Documentary,7/14/2020,TRUE,70,0,LTU,https://flixpatrol.com/title/the-business-of-drugs,Europe,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-28,Movie,Eurovision Song Contest: The Story of Fire Saga,United States of America,Comedy,6/26/2020,TRUE,78,63,LTU,https://flixpatrol.com/title/eurovision-song-contest-the-story-of-fire-saga,Europe,2020,6,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-28,TV Show,Warrior Nun,United States of America,Fantasy,7/2/2020,TRUE,69,0,LTU,https://flixpatrol.com/title/warrior-nun,Europe,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-27,Movie,Eurovision Song Contest: The Story of Fire Saga,United States of America,Comedy,6/26/2020,TRUE,78,63,LTU,https://flixpatrol.com/title/eurovision-song-contest-the-story-of-fire-saga,Europe,2020,6,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-27,TV Show,Dark,Germany,Mystery,12/1/2017,TRUE,87,94,LTU,https://flixpatrol.com/title/dark-2017,Europe,2017,12,83783945,84,"3,995","2,763","1,232",7.01,24%,62.9,62,32
-26,Movie,Eurovision Song Contest: The Story of Fire Saga,United States of America,Comedy,6/26/2020,TRUE,78,63,LTU,https://flixpatrol.com/title/eurovision-song-contest-the-story-of-fire-saga,Europe,2020,6,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-26,TV Show,Dark,Germany,Mystery,12/1/2017,TRUE,87,94,LTU,https://flixpatrol.com/title/dark-2017,Europe,2017,12,83783945,84,"3,995","2,763","1,232",7.01,24%,62.9,62,32
 37,Movie,"Love, Guaranteed",United States of America,Comedy,9/3/2020,TRUE,55,50,SVK,https://flixpatrol.com/title/love-guaranteed,Europe,2020,9,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 37,TV Show,Away,United States of America,Science Fiction,9/4/2020,TRUE,71,73,SVK,https://flixpatrol.com/title/away-2020,Europe,2020,9,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-36,Movie,Project Power,United States of America,Action,8/14/2020,TRUE,61,63,SVK,https://flixpatrol.com/title/project-power,Europe,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-36,TV Show,Lucifer,United States of America,Superhero,1/25/2016,TRUE,83,87,SVK,https://flixpatrol.com/title/lucifer,Europe,2016,1,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-35,Movie,Project Power,United States of America,Action,8/14/2020,TRUE,61,63,SVK,https://flixpatrol.com/title/project-power,Europe,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-35,TV Show,Lucifer,United States of America,Superhero,1/25/2016,TRUE,83,87,SVK,https://flixpatrol.com/title/lucifer,Europe,2016,1,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-34,Movie,Project Power,United States of America,Action,8/14/2020,TRUE,61,63,SVK,https://flixpatrol.com/title/project-power,Europe,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-34,TV Show,The Umbrella Academy,United States of America,Superhero,2/15/2019,TRUE,83,82,SVK,https://flixpatrol.com/title/the-umbrella-academy,Europe,2019,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-33,Movie,Work It,United States of America,Comedy,8/7/2020,TRUE,61,0,SVK,https://flixpatrol.com/title/work-it-2020,Europe,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-33,TV Show,The Umbrella Academy,United States of America,Superhero,2/15/2019,TRUE,83,82,SVK,https://flixpatrol.com/title/the-umbrella-academy,Europe,2019,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-32,Movie,The Kissing Booth 2,United Kingdom,Romance,7/24/2020,TRUE,62,28,SVK,https://flixpatrol.com/title/the-kissing-booth-2,Europe,2020,7,67886004,150,"5,673","3,831","1,842",6.97,24%,61.7,59,31
-32,TV Show,The Umbrella Academy,United States of America,Superhero,2/15/2019,TRUE,83,82,SVK,https://flixpatrol.com/title/the-umbrella-academy,Europe,2019,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-31,Movie,The Kissing Booth 2,United Kingdom,Romance,7/24/2020,TRUE,62,28,SVK,https://flixpatrol.com/title/the-kissing-booth-2,Europe,2020,7,67886004,150,"5,673","3,831","1,842",6.97,24%,61.7,59,31
-31,TV Show,Cursed,United States of America,Fantasy,7/17/2020,TRUE,51,69,SVK,https://flixpatrol.com/title/cursed-2020,Europe,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-30,Movie,MILF,France,Comedy,5/2/2018,FALSE,0,14,SVK,https://flixpatrol.com/title/milf-2018,Europe,2018,5,65273512,50,"3,978","2,639","1,339",7.07,26%,63.6,54,32
-30,TV Show,Cursed,United States of America,Fantasy,7/17/2020,TRUE,51,69,SVK,https://flixpatrol.com/title/cursed-2020,Europe,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-29,Movie,The Old Guard,United States of America,Superhero,7/10/2020,TRUE,82,80,SVK,https://flixpatrol.com/title/the-old-guard,Europe,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-29,TV Show,Warrior Nun,United States of America,Fantasy,7/2/2020,TRUE,69,0,SVK,https://flixpatrol.com/title/warrior-nun,Europe,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-28,Movie,365 Days,Poland,Romance,6/7/2020,FALSE,35,0,SVK,https://flixpatrol.com/title/365-days,Europe,2020,6,37846605,145,"3,398","2,317","1,081",6.98,24%,64,54,29
-28,TV Show,Warrior Nun,United States of America,Fantasy,7/2/2020,TRUE,69,0,SVK,https://flixpatrol.com/title/warrior-nun,Europe,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-27,Movie,365 Days,Poland,Romance,6/7/2020,FALSE,35,0,SVK,https://flixpatrol.com/title/365-days,Europe,2020,6,37846605,145,"3,398","2,317","1,081",6.98,24%,64,54,29
-27,TV Show,Dark,Germany,Mystery,12/1/2017,TRUE,87,94,SVK,https://flixpatrol.com/title/dark-2017,Europe,2017,12,83783945,84,"3,995","2,763","1,232",7.01,24%,62.9,62,32
-26,Movie,365 Days,Poland,Romance,6/7/2020,FALSE,35,0,SVK,https://flixpatrol.com/title/365-days,Europe,2020,6,37846605,145,"3,398","2,317","1,081",6.98,24%,64,54,29
-26,TV Show,The Sinner,United States of America,Crime,8/2/2017,TRUE,80,90,SVK,https://flixpatrol.com/title/the-sinner,Europe,2017,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-25,Movie,365 Days,Poland,Romance,6/7/2020,FALSE,35,0,SVK,https://flixpatrol.com/title/365-days,Europe,2020,6,37846605,145,"3,398","2,317","1,081",6.98,24%,64,54,29
-25,TV Show,13 Reasons Why,United States of America,Drama,3/31/2017,TRUE,84,39,SVK,https://flixpatrol.com/title/13-reasons-why,Europe,2017,3,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-24,Movie,365 Days,Poland,Romance,6/7/2020,FALSE,35,0,SVK,https://flixpatrol.com/title/365-days,Europe,2020,6,37846605,145,"3,398","2,317","1,081",6.98,24%,64,54,29
-24,TV Show,13 Reasons Why,United States of America,Drama,3/31/2017,TRUE,84,39,SVK,https://flixpatrol.com/title/13-reasons-why,Europe,2017,3,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-23,Movie,Venom,United States of America,Superhero,10/3/2018,FALSE,71,29,SVK,https://flixpatrol.com/title/venom-2018,Europe,2018,10,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-23,TV Show,Space Force,United States of America,Comedy,5/29/2020,TRUE,70,41,SVK,https://flixpatrol.com/title/space-force,Europe,2020,5,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-22,Movie,Little Feather,Slovakia,Drama,10/6/2016,FALSE,61,0,SVK,https://flixpatrol.com/title/little-feather,Europe,2016,10,5459643,1,"5,077","3,419","1,658",7.04,25%,63.4,63,31
-22,Documentary TV,History 101,United Kingdom,Documentary,5/22/2020,TRUE,60,0,SVK,https://flixpatrol.com/title/history-101,Europe,2020,5,67886004,150,"5,673","3,831","1,842",6.97,24%,61.7,59,31
-21,Movie,Harry Potter and the Philosopher's Stone,United Kingdom,Fantasy,11/4/2001,FALSE,75,0,SVK,https://flixpatrol.com/title/harry-potter-and-the-philosophers-stone,Europe,2001,11,67886004,150,"5,673","3,831","1,842",6.97,24%,61.7,59,31
-21,Documentary TV,The Last Dance,United States of America,Documentary,4/19/2020,TRUE,94,97,SVK,https://flixpatrol.com/title/the-last-dance,Europe,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-20,Movie,The Wrong Missy,United States of America,Comedy,5/13/2020,TRUE,56,25,SVK,https://flixpatrol.com/title/the-wrong-missy,Europe,2020,5,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-20,Documentary TV,The Last Dance,United States of America,Documentary,4/19/2020,TRUE,94,97,SVK,https://flixpatrol.com/title/the-last-dance,Europe,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-19,Movie,Extraction,United States of America,Action,4/24/2020,TRUE,70,68,SVK,https://flixpatrol.com/title/extraction-2020,Europe,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-19,Documentary TV,The Last Dance,United States of America,Documentary,4/19/2020,TRUE,94,97,SVK,https://flixpatrol.com/title/the-last-dance,Europe,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-18,Movie,Extraction,United States of America,Action,4/24/2020,TRUE,70,68,SVK,https://flixpatrol.com/title/extraction-2020,Europe,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-18,TV Show,Too Hot to Handle,United States of America,Reality-Show,4/17/2020,TRUE,42,37,SVK,https://flixpatrol.com/title/too-hot-to-handle,Europe,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-17,Movie,Earth and Blood,France,Action,4/17/2020,TRUE,50,0,SVK,https://flixpatrol.com/title/earth-and-blood,Europe,2020,4,65273512,50,"3,978","2,639","1,339",7.07,26%,63.6,54,32
-17,TV Show,Too Hot to Handle,United States of America,Reality-Show,4/17/2020,TRUE,42,37,SVK,https://flixpatrol.com/title/too-hot-to-handle,Europe,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-16,Movie,Love. Wedding. Repeat,Italy,Comedy,4/10/2020,TRUE,55,34,SVK,https://flixpatrol.com/title/love-wedding-repeat,Europe,2020,4,60461828,23,"3,526","2,452","1,074",7.05,26%,63.7,73,29
-16,TV Show,Money Heist,Spain,Action,5/2/2017,TRUE,84,93,SVK,https://flixpatrol.com/title/money-heist,Europe,2017,5,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
-15,Documentary,Money Heist: The Phenomenon,Spain,Documentary,4/3/2020,TRUE,78,0,SVK,https://flixpatrol.com/title/money-heist-the-phenomenon,Europe,2020,4,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
-15,TV Show,Money Heist,Spain,Action,5/2/2017,TRUE,84,93,SVK,https://flixpatrol.com/title/money-heist,Europe,2017,5,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
-14,Movie,The Platform,Spain,Science Fiction,3/20/2020,TRUE,73,0,SVK,https://flixpatrol.com/title/the-platform,Europe,2020,3,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
-14,TV Show,Toy Boy,Spain,Crime,9/7/2019,TRUE,65,0,SVK,https://flixpatrol.com/title/toy-boy-2019,Europe,2019,9,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
-13,Movie,The Platform,Spain,Science Fiction,3/20/2020,TRUE,73,0,SVK,https://flixpatrol.com/title/the-platform,Europe,2020,3,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
-13,TV Show,Toy Boy,Spain,Crime,9/7/2019,TRUE,65,0,SVK,https://flixpatrol.com/title/toy-boy-2019,Europe,2019,9,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
-12,Movie,The Platform,Spain,Science Fiction,3/20/2020,TRUE,73,0,SVK,https://flixpatrol.com/title/the-platform,Europe,2020,3,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
-12,Documentary TV,Pandemic: How to Prevent an Outbreak,United States of America,Documentary,1/22/2020,TRUE,62,100,SVK,https://flixpatrol.com/title/pandemic-how-to-prevent-an-outbreak,Europe,2020,1,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 37,Movie,"Love, Guaranteed",United States of America,Comedy,9/3/2020,TRUE,55,50,SVN,https://flixpatrol.com/title/love-guaranteed,Europe,2020,9,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 37,TV Show,Away,United States of America,Science Fiction,9/4/2020,TRUE,71,73,SVN,https://flixpatrol.com/title/away-2020,Europe,2020,9,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-36,Movie,Mamma Mia: Here We Go Again!,United States of America,Musical,7/19/2018,FALSE,73,80,SVN,https://flixpatrol.com/title/mamma-mia-here-we-go-again,Europe,2018,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-36,TV Show,Lucifer,United States of America,Superhero,1/25/2016,TRUE,83,87,SVN,https://flixpatrol.com/title/lucifer,Europe,2016,1,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-35,Movie,The Sleepover,United States of America,Comedy,8/21/2020,TRUE,55,80,SVN,https://flixpatrol.com/title/the-sleepover,Europe,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-35,TV Show,Lucifer,United States of America,Superhero,1/25/2016,TRUE,83,87,SVN,https://flixpatrol.com/title/lucifer,Europe,2016,1,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-34,Movie,Project Power,United States of America,Action,8/14/2020,TRUE,61,63,SVN,https://flixpatrol.com/title/project-power,Europe,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-34,TV Show,The Umbrella Academy,United States of America,Superhero,2/15/2019,TRUE,83,82,SVN,https://flixpatrol.com/title/the-umbrella-academy,Europe,2019,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-33,Movie,Work It,United States of America,Comedy,8/7/2020,TRUE,61,0,SVN,https://flixpatrol.com/title/work-it-2020,Europe,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-33,TV Show,The Umbrella Academy,United States of America,Superhero,2/15/2019,TRUE,83,82,SVN,https://flixpatrol.com/title/the-umbrella-academy,Europe,2019,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-32,Movie,The Kissing Booth 2,United Kingdom,Romance,7/24/2020,TRUE,62,28,SVN,https://flixpatrol.com/title/the-kissing-booth-2,Europe,2020,7,67886004,150,"5,673","3,831","1,842",6.97,24%,61.7,59,31
-32,TV Show,The Umbrella Academy,United States of America,Superhero,2/15/2019,TRUE,83,82,SVN,https://flixpatrol.com/title/the-umbrella-academy,Europe,2019,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-31,Movie,The Kissing Booth 2,United Kingdom,Romance,7/24/2020,TRUE,62,28,SVN,https://flixpatrol.com/title/the-kissing-booth-2,Europe,2020,7,67886004,150,"5,673","3,831","1,842",6.97,24%,61.7,59,31
-31,TV Show,Modern Family,United States of America,Comedy,9/23/2009,FALSE,84,0,SVN,https://flixpatrol.com/title/modern-family,Europe,2009,9,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-30,Movie,Jurassic World: Fallen Kingdom,United States of America,Science Fiction,6/6/2018,FALSE,67,47,SVN,https://flixpatrol.com/title/jurassic-world-fallen-kingdom,Europe,2018,6,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-30,TV Show,Cursed,United States of America,Fantasy,7/17/2020,TRUE,51,69,SVN,https://flixpatrol.com/title/cursed-2020,Europe,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-29,Movie,The Old Guard,United States of America,Superhero,7/10/2020,TRUE,82,80,SVN,https://flixpatrol.com/title/the-old-guard,Europe,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-29,TV Show,Warrior Nun,United States of America,Fantasy,7/2/2020,TRUE,69,0,SVN,https://flixpatrol.com/title/warrior-nun,Europe,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-28,Movie,Desperados,United States of America,Comedy,7/3/2020,TRUE,51,15,SVN,https://flixpatrol.com/title/desperados-2020,Europe,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-28,TV Show,Warrior Nun,United States of America,Fantasy,7/2/2020,TRUE,69,0,SVN,https://flixpatrol.com/title/warrior-nun,Europe,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-27,Movie,Eurovision Song Contest: The Story of Fire Saga,United States of America,Comedy,6/26/2020,TRUE,78,63,SVN,https://flixpatrol.com/title/eurovision-song-contest-the-story-of-fire-saga,Europe,2020,6,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-27,TV Show,Dark,Germany,Mystery,12/1/2017,TRUE,87,94,SVN,https://flixpatrol.com/title/dark-2017,Europe,2017,12,83783945,84,"3,995","2,763","1,232",7.01,24%,62.9,62,32
-26,Movie,Eurovision Song Contest: The Story of Fire Saga,United States of America,Comedy,6/26/2020,TRUE,78,63,SVN,https://flixpatrol.com/title/eurovision-song-contest-the-story-of-fire-saga,Europe,2020,6,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-26,TV Show,The Sinner,United States of America,Crime,8/2/2017,TRUE,80,90,SVN,https://flixpatrol.com/title/the-sinner,Europe,2017,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 37,Movie,"Love, Guaranteed",United States of America,Comedy,9/3/2020,TRUE,55,50,CZE,https://flixpatrol.com/title/love-guaranteed,Europe,2020,9,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 37,TV Show,Away,United States of America,Science Fiction,9/4/2020,TRUE,71,73,CZE,https://flixpatrol.com/title/away-2020,Europe,2020,9,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+36,Movie,Aquaman,United States of America,Superhero,12/7/2018,FALSE,77,65,PAK,https://flixpatrol.com/title/aquaman,Asia,2018,12,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+36,TV Show,Resurrection: Ertugrul,Turkey,Unknown,12/11/2014,FALSE,78,0,PAK,https://flixpatrol.com/title/resurrection-ertugrul-2014,Asia,2014,12,84339067,44,"2,812","1,878",634,7.03,26%,62.6,47,30
+36,Movie,Aquaman,United States of America,Superhero,12/7/2018,FALSE,77,65,CHE,https://flixpatrol.com/title/aquaman,Europe,2018,12,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+36,TV Show,Cobra Kai,United States of America,Action,5/2/2018,FALSE,88,94,CHE,https://flixpatrol.com/title/cobra-kai,Europe,2018,5,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+36,Movie,Santana,South Africa,Action,8/28/2020,FALSE,39,0,SAU,https://flixpatrol.com/title/santana,Asia,2020,8,59308690,17,"4,987","3,278","1,709",7.09,27%,62.7,55,31
+36,TV Show,Lucifer,United States of America,Superhero,1/25/2016,TRUE,83,87,SAU,https://flixpatrol.com/title/lucifer,Asia,2016,1,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+36,Movie,The Emoji Movie,United States of America,Animated,7/28/2017,FALSE,14,8,NIC,https://flixpatrol.com/title/the-emoji-movie,North & South America,2017,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+36,TV Show,Her Mother's Killer,Colombia,Unknown,1/1/2020,FALSE,0,0,NIC,https://flixpatrol.com/title/her-mothers-killer,North & South America,2020,1,50882884,51,"4,282","2,932","1,350",7.05,25%,64,58,29
+36,Movie,Wonder,United States of America,Drama,11/13/2017,FALSE,80,93,NZE,https://flixpatrol.com/title/wonder,Oceania,2017,11,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+36,TV Show,Cobra Kai,United States of America,Action,5/2/2018,FALSE,88,94,NZE,https://flixpatrol.com/title/cobra-kai,Oceania,2018,5,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+36,Movie,Joker,United States of America,Superhero,10/2/2019,FALSE,89,68,DNK,https://flixpatrol.com/title/joker-2019,Europe,2019,10,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+36,TV Show,Cobra Kai,United States of America,Action,5/2/2018,FALSE,88,94,DNK,https://flixpatrol.com/title/cobra-kai,Europe,2018,5,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+36,Movie,Skyscraper,United States of America,Action,7/4/2018,FALSE,61,48,ARE,https://flixpatrol.com/title/skyscraper,Asia,2018,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+36,TV Show,Lucifer,United States of America,Superhero,1/25/2016,TRUE,83,87,ARE,https://flixpatrol.com/title/lucifer,Asia,2016,1,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+36,Movie,Zengo,Turkey,Comedy,3/6/2020,FALSE,26,0,TUR,https://flixpatrol.com/title/zengo,Asia,2020,3,84339067,44,"2,812","1,878",634,7.03,26%,62.6,47,30
+36,TV Show,Lucifer,United States of America,Superhero,1/25/2016,TRUE,83,87,TUR,https://flixpatrol.com/title/lucifer,Asia,2016,1,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+36,Movie,Mary Queen of Scots,United Kingdom,Drama,12/21/2018,FALSE,65,62,AUS,https://flixpatrol.com/title/mary-queen-of-scots-2018,Oceania,2018,12,67886004,150,"5,673","3,831","1,842",6.97,24%,61.7,59,31
+36,TV Show,Cobra Kai,United States of America,Action,5/2/2018,FALSE,88,94,AUS,https://flixpatrol.com/title/cobra-kai,Oceania,2018,5,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+36,Movie,Johnny English Strikes Again,United Kingdom,Comedy,9/13/2018,FALSE,66,34,LTU,https://flixpatrol.com/title/johnny-english-3,Europe,2018,9,67886004,150,"5,673","3,831","1,842",6.97,24%,61.7,59,31
+36,TV Show,Lucifer,United States of America,Superhero,1/25/2016,TRUE,83,87,LTU,https://flixpatrol.com/title/lucifer,Europe,2016,1,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+36,Movie,Project Power,United States of America,Action,8/14/2020,TRUE,61,63,SVK,https://flixpatrol.com/title/project-power,Europe,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+36,TV Show,Lucifer,United States of America,Superhero,1/25/2016,TRUE,83,87,SVK,https://flixpatrol.com/title/lucifer,Europe,2016,1,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+36,Movie,Mamma Mia: Here We Go Again!,United States of America,Musical,7/19/2018,FALSE,73,80,SVN,https://flixpatrol.com/title/mamma-mia-here-we-go-again,Europe,2018,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+36,TV Show,Lucifer,United States of America,Superhero,1/25/2016,TRUE,83,87,SVN,https://flixpatrol.com/title/lucifer,Europe,2016,1,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 36,Movie,Jak se zbavit nevěsty,Czechia,Comedy,4/28/2016,FALSE,57,0,CZE,https://flixpatrol.com/title/jak-se-zbavit-nevesty,Europe,2016,4,10708982,5,"5,064","3,413","1,651",7.05,25%,63.4,63,31
 36,TV Show,Lucifer,United States of America,Superhero,1/25/2016,TRUE,83,87,CZE,https://flixpatrol.com/title/lucifer,Europe,2016,1,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+35,Movie,Class of '83,India,Drama,8/21/2020,FALSE,0,20,PAK,https://flixpatrol.com/title/class-of-83,Asia,2020,8,1380004385,21,"5,591","3,781","1,810",7.12,26%,63.8,65,30
+35,TV Show,Lucifer,United States of America,Superhero,1/25/2016,TRUE,83,87,PAK,https://flixpatrol.com/title/lucifer,Asia,2016,1,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+35,Movie,Venom,United States of America,Superhero,10/3/2018,FALSE,71,29,CHE,https://flixpatrol.com/title/venom-2018,Europe,2018,10,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+35,TV Show,Lucifer,United States of America,Superhero,1/25/2016,TRUE,83,87,CHE,https://flixpatrol.com/title/lucifer,Europe,2016,1,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+35,Movie,Project Power,United States of America,Action,8/14/2020,TRUE,61,63,SAU,https://flixpatrol.com/title/project-power,Asia,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+35,TV Show,Lucifer,United States of America,Superhero,1/25/2016,TRUE,83,87,SAU,https://flixpatrol.com/title/lucifer,Asia,2016,1,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+35,Movie,Escape Plan,United States of America,Action,11/13/2013,FALSE,68,49,NIC,https://flixpatrol.com/title/escape-plan,North & South America,2013,11,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+35,TV Show,Lucifer,United States of America,Superhero,1/25/2016,TRUE,83,87,NIC,https://flixpatrol.com/title/lucifer,North & South America,2016,1,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+35,Movie,The Sleepover,United States of America,Comedy,8/21/2020,TRUE,55,80,NZE,https://flixpatrol.com/title/the-sleepover,Oceania,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+35,TV Show,Lucifer,United States of America,Superhero,1/25/2016,TRUE,83,87,NZE,https://flixpatrol.com/title/lucifer,Oceania,2016,1,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+35,Movie,Project Power,United States of America,Action,8/14/2020,TRUE,61,63,DNK,https://flixpatrol.com/title/project-power,Europe,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+35,TV Show,Lucifer,United States of America,Superhero,1/25/2016,TRUE,83,87,DNK,https://flixpatrol.com/title/lucifer,Europe,2016,1,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+35,Movie,Project Power,United States of America,Action,8/14/2020,TRUE,61,63,ARE,https://flixpatrol.com/title/project-power,Asia,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+35,TV Show,Lucifer,United States of America,Superhero,1/25/2016,TRUE,83,87,ARE,https://flixpatrol.com/title/lucifer,Asia,2016,1,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+35,Movie,Baba Parasi,Turkey,Comedy,1/1/2020,FALSE,0,0,TUR,https://flixpatrol.com/title/baba-parasi,Asia,2020,1,84339067,44,"2,812","1,878",634,7.03,26%,62.6,47,30
+35,TV Show,Lucifer,United States of America,Superhero,1/25/2016,TRUE,83,87,TUR,https://flixpatrol.com/title/lucifer,Asia,2016,1,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+35,Movie,The Sleepover,United States of America,Comedy,8/21/2020,TRUE,55,80,AUS,https://flixpatrol.com/title/the-sleepover,Oceania,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+35,TV Show,Lucifer,United States of America,Superhero,1/25/2016,TRUE,83,87,AUS,https://flixpatrol.com/title/lucifer,Oceania,2016,1,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+35,Movie,Project Power,United States of America,Action,8/14/2020,TRUE,61,63,LTU,https://flixpatrol.com/title/project-power,Europe,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+35,TV Show,Lucifer,United States of America,Superhero,1/25/2016,TRUE,83,87,LTU,https://flixpatrol.com/title/lucifer,Europe,2016,1,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+35,Movie,Project Power,United States of America,Action,8/14/2020,TRUE,61,63,SVK,https://flixpatrol.com/title/project-power,Europe,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+35,TV Show,Lucifer,United States of America,Superhero,1/25/2016,TRUE,83,87,SVK,https://flixpatrol.com/title/lucifer,Europe,2016,1,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+35,Movie,The Sleepover,United States of America,Comedy,8/21/2020,TRUE,55,80,SVN,https://flixpatrol.com/title/the-sleepover,Europe,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+35,TV Show,Lucifer,United States of America,Superhero,1/25/2016,TRUE,83,87,SVN,https://flixpatrol.com/title/lucifer,Europe,2016,1,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 35,Movie,Project Power,United States of America,Action,8/14/2020,TRUE,61,63,CZE,https://flixpatrol.com/title/project-power,Europe,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 35,TV Show,Lucifer,United States of America,Superhero,1/25/2016,TRUE,83,87,CZE,https://flixpatrol.com/title/lucifer,Europe,2016,1,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+34,Movie,Project Power,United States of America,Action,8/14/2020,TRUE,61,63,CHE,https://flixpatrol.com/title/project-power,Europe,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+34,TV Show,The Umbrella Academy,United States of America,Superhero,2/15/2019,TRUE,83,82,CHE,https://flixpatrol.com/title/the-umbrella-academy,Europe,2019,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+34,Movie,Project Power,United States of America,Action,8/14/2020,TRUE,61,63,SAU,https://flixpatrol.com/title/project-power,Asia,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+34,TV Show,Locked Up,Spain,Drama,4/20/2015,TRUE,83,100,SAU,https://flixpatrol.com/title/locked-up,Asia,2015,4,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
+34,Movie,An Easy Girl,France,Drama,8/28/2019,TRUE,54,0,NIC,https://flixpatrol.com/title/an-easy-girl,North & South America,2019,8,65273512,50,"3,978","2,639","1,339",7.07,26%,63.6,54,32
+34,TV Show,Yo soy Betty la fea,Colombia,Unknown,10/25/1999,FALSE,81,0,NIC,https://flixpatrol.com/title/yo-soy-betty-la-fea,North & South America,1999,10,50882884,51,"4,282","2,932","1,350",7.05,25%,64,58,29
+34,Movie,Project Power,United States of America,Action,8/14/2020,TRUE,61,63,NZE,https://flixpatrol.com/title/project-power,Oceania,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+34,TV Show,The Umbrella Academy,United States of America,Superhero,2/15/2019,TRUE,83,82,NZE,https://flixpatrol.com/title/the-umbrella-academy,Oceania,2019,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+34,Movie,Project Power,United States of America,Action,8/14/2020,TRUE,61,63,DNK,https://flixpatrol.com/title/project-power,Europe,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+34,TV Show,Brooklyn Nine-Nine,United States of America,Comedy,9/17/2013,FALSE,83,97,DNK,https://flixpatrol.com/title/brooklyn-nine-nine,Europe,2013,9,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+34,Movie,Baba Parasi,Turkey,Comedy,1/1/2020,FALSE,0,0,TUR,https://flixpatrol.com/title/baba-parasi,Asia,2020,1,84339067,44,"2,812","1,878",634,7.03,26%,62.6,47,30
+34,TV Show,Behzat Ç.,Turkey,Crime,9/19/2010,FALSE,0,0,TUR,https://flixpatrol.com/title/behzat-ç-bir-ankara-polisiyesi,Asia,2010,9,84339067,44,"2,812","1,878",634,7.03,26%,62.6,47,30
+34,Movie,Project Power,United States of America,Action,8/14/2020,TRUE,61,63,AUS,https://flixpatrol.com/title/project-power,Oceania,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+34,TV Show,Dirty John,United States of America,Drama,11/25/2018,TRUE,69,71,AUS,https://flixpatrol.com/title/dirty-john,Oceania,2018,11,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+34,Movie,Project Power,United States of America,Action,8/14/2020,TRUE,61,63,LTU,https://flixpatrol.com/title/project-power,Europe,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+34,TV Show,The Umbrella Academy,United States of America,Superhero,2/15/2019,TRUE,83,82,LTU,https://flixpatrol.com/title/the-umbrella-academy,Europe,2019,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+34,Movie,Project Power,United States of America,Action,8/14/2020,TRUE,61,63,SVK,https://flixpatrol.com/title/project-power,Europe,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+34,TV Show,The Umbrella Academy,United States of America,Superhero,2/15/2019,TRUE,83,82,SVK,https://flixpatrol.com/title/the-umbrella-academy,Europe,2019,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+34,Movie,Project Power,United States of America,Action,8/14/2020,TRUE,61,63,SVN,https://flixpatrol.com/title/project-power,Europe,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+34,TV Show,The Umbrella Academy,United States of America,Superhero,2/15/2019,TRUE,83,82,SVN,https://flixpatrol.com/title/the-umbrella-academy,Europe,2019,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 34,Movie,Project Power,United States of America,Action,8/14/2020,TRUE,61,63,CZE,https://flixpatrol.com/title/project-power,Europe,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 34,TV Show,The Umbrella Academy,United States of America,Superhero,2/15/2019,TRUE,83,82,CZE,https://flixpatrol.com/title/the-umbrella-academy,Europe,2019,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+33,Movie,Work It,United States of America,Comedy,8/7/2020,TRUE,61,0,CHE,https://flixpatrol.com/title/work-it-2020,Europe,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+33,TV Show,The Umbrella Academy,United States of America,Superhero,2/15/2019,TRUE,83,82,CHE,https://flixpatrol.com/title/the-umbrella-academy,Europe,2019,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+33,Movie,Work It,United States of America,Comedy,8/7/2020,TRUE,61,0,SAU,https://flixpatrol.com/title/work-it-2020,Asia,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+33,TV Show,Locked Up,Spain,Drama,4/20/2015,TRUE,83,100,SAU,https://flixpatrol.com/title/locked-up,Asia,2015,4,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
+33,Movie,Work It,United States of America,Comedy,8/7/2020,TRUE,61,0,NIC,https://flixpatrol.com/title/work-it-2020,North & South America,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+33,TV Show,The Seven Deadly Sins,Japan,Animation,10/5/2014,TRUE,82,0,NIC,https://flixpatrol.com/title/the-seven-deadly-sins,North & South America,2014,10,126476458,25,"5,065","3,518","1,547",6.98,22%,63.1,78,33
+33,Movie,Work It,United States of America,Comedy,8/7/2020,TRUE,61,0,NZE,https://flixpatrol.com/title/work-it-2020,Oceania,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+33,TV Show,The Umbrella Academy,United States of America,Superhero,2/15/2019,TRUE,83,82,NZE,https://flixpatrol.com/title/the-umbrella-academy,Oceania,2019,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+33,Movie,Work It,United States of America,Comedy,8/7/2020,TRUE,61,0,DNK,https://flixpatrol.com/title/work-it-2020,Europe,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+33,TV Show,Brooklyn Nine-Nine,United States of America,Comedy,9/17/2013,FALSE,83,97,DNK,https://flixpatrol.com/title/brooklyn-nine-nine,Europe,2013,9,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+33,Movie,The Pocket Hercules Naim,Turkey,Drama,11/22/2019,FALSE,86,0,TUR,https://flixpatrol.com/title/the-pocket-hercules-naim,Asia,2019,11,84339067,44,"2,812","1,878",634,7.03,26%,62.6,47,30
+33,TV Show,The Umbrella Academy,United States of America,Superhero,2/15/2019,TRUE,83,82,TUR,https://flixpatrol.com/title/the-umbrella-academy,Asia,2019,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+33,Movie,Work It,United States of America,Comedy,8/7/2020,TRUE,61,0,AUS,https://flixpatrol.com/title/work-it-2020,Oceania,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+33,TV Show,The Umbrella Academy,United States of America,Superhero,2/15/2019,TRUE,83,82,AUS,https://flixpatrol.com/title/the-umbrella-academy,Oceania,2019,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+33,Movie,Work It,United States of America,Comedy,8/7/2020,TRUE,61,0,LTU,https://flixpatrol.com/title/work-it-2020,Europe,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+33,TV Show,The Umbrella Academy,United States of America,Superhero,2/15/2019,TRUE,83,82,LTU,https://flixpatrol.com/title/the-umbrella-academy,Europe,2019,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+33,Movie,Work It,United States of America,Comedy,8/7/2020,TRUE,61,0,SVK,https://flixpatrol.com/title/work-it-2020,Europe,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+33,TV Show,The Umbrella Academy,United States of America,Superhero,2/15/2019,TRUE,83,82,SVK,https://flixpatrol.com/title/the-umbrella-academy,Europe,2019,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+33,Movie,Work It,United States of America,Comedy,8/7/2020,TRUE,61,0,SVN,https://flixpatrol.com/title/work-it-2020,Europe,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+33,TV Show,The Umbrella Academy,United States of America,Superhero,2/15/2019,TRUE,83,82,SVN,https://flixpatrol.com/title/the-umbrella-academy,Europe,2019,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 33,Movie,Work It,United States of America,Comedy,8/7/2020,TRUE,61,0,CZE,https://flixpatrol.com/title/work-it-2020,Europe,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 33,TV Show,The Umbrella Academy,United States of America,Superhero,2/15/2019,TRUE,83,82,CZE,https://flixpatrol.com/title/the-umbrella-academy,Europe,2019,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+32,Movie,The Kissing Booth 2,United Kingdom,Romance,7/24/2020,TRUE,62,28,CHE,https://flixpatrol.com/title/the-kissing-booth-2,Europe,2020,7,67886004,150,"5,673","3,831","1,842",6.97,24%,61.7,59,31
+32,TV Show,The Umbrella Academy,United States of America,Superhero,2/15/2019,TRUE,83,82,CHE,https://flixpatrol.com/title/the-umbrella-academy,Europe,2019,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+32,Movie,Jumanji: Welcome to the Jungle,United States of America,Adventure,12/20/2017,FALSE,69,76,SAU,https://flixpatrol.com/title/jumanji-welcome-to-the-jungle,Asia,2017,12,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+32,TV Show,Locked Up,Spain,Drama,4/20/2015,TRUE,83,100,SAU,https://flixpatrol.com/title/locked-up,Asia,2015,4,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
+32,Movie,Wonder,United States of America,Drama,11/13/2017,FALSE,80,93,NIC,https://flixpatrol.com/title/wonder,North & South America,2017,11,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+32,TV Show,Locked Up,Spain,Drama,4/20/2015,TRUE,83,100,NIC,https://flixpatrol.com/title/locked-up,North & South America,2015,4,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
+32,Movie,Latte and the Magic Waterstone,Germany,Animated,12/11/2019,FALSE,56,0,NZE,https://flixpatrol.com/title/latte-and-the-magic-waterstone,Oceania,2019,12,83783945,84,"3,995","2,763","1,232",7.01,24%,62.9,62,32
+32,TV Show,The Umbrella Academy,United States of America,Superhero,2/15/2019,TRUE,83,82,NZE,https://flixpatrol.com/title/the-umbrella-academy,Oceania,2019,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+32,Movie,Work It,United States of America,Comedy,8/7/2020,TRUE,61,0,DNK,https://flixpatrol.com/title/work-it-2020,Europe,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+32,TV Show,The Umbrella Academy,United States of America,Superhero,2/15/2019,TRUE,83,82,DNK,https://flixpatrol.com/title/the-umbrella-academy,Europe,2019,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+32,Movie,Bayi Toplantisi,Turkey,Comedy,2/20/2020,FALSE,48,0,TUR,https://flixpatrol.com/title/bayi-toplantisi,Asia,2020,2,84339067,44,"2,812","1,878",634,7.03,26%,62.6,47,30
+32,TV Show,The Umbrella Academy,United States of America,Superhero,2/15/2019,TRUE,83,82,TUR,https://flixpatrol.com/title/the-umbrella-academy,Asia,2019,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+32,Movie,Doctor Sleep,United States of America,Horror,10/30/2019,FALSE,77,0,AUS,https://flixpatrol.com/title/doctor-sleep,Oceania,2019,10,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+32,TV Show,The Umbrella Academy,United States of America,Superhero,2/15/2019,TRUE,83,82,AUS,https://flixpatrol.com/title/the-umbrella-academy,Oceania,2019,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+32,Movie,The Kissing Booth 2,United Kingdom,Romance,7/24/2020,TRUE,62,28,LTU,https://flixpatrol.com/title/the-kissing-booth-2,Europe,2020,7,67886004,150,"5,673","3,831","1,842",6.97,24%,61.7,59,31
+32,TV Show,The Umbrella Academy,United States of America,Superhero,2/15/2019,TRUE,83,82,LTU,https://flixpatrol.com/title/the-umbrella-academy,Europe,2019,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+32,Movie,The Kissing Booth 2,United Kingdom,Romance,7/24/2020,TRUE,62,28,SVK,https://flixpatrol.com/title/the-kissing-booth-2,Europe,2020,7,67886004,150,"5,673","3,831","1,842",6.97,24%,61.7,59,31
+32,TV Show,The Umbrella Academy,United States of America,Superhero,2/15/2019,TRUE,83,82,SVK,https://flixpatrol.com/title/the-umbrella-academy,Europe,2019,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+32,Movie,The Kissing Booth 2,United Kingdom,Romance,7/24/2020,TRUE,62,28,SVN,https://flixpatrol.com/title/the-kissing-booth-2,Europe,2020,7,67886004,150,"5,673","3,831","1,842",6.97,24%,61.7,59,31
+32,TV Show,The Umbrella Academy,United States of America,Superhero,2/15/2019,TRUE,83,82,SVN,https://flixpatrol.com/title/the-umbrella-academy,Europe,2019,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 32,Movie,The Kissing Booth 2,United Kingdom,Romance,7/24/2020,TRUE,62,28,CZE,https://flixpatrol.com/title/the-kissing-booth-2,Europe,2020,7,67886004,150,"5,673","3,831","1,842",6.97,24%,61.7,59,31
 32,TV Show,The Umbrella Academy,United States of America,Superhero,2/15/2019,TRUE,83,82,CZE,https://flixpatrol.com/title/the-umbrella-academy,Europe,2019,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+31,Movie,The Kissing Booth 2,United Kingdom,Romance,7/24/2020,TRUE,62,28,CHE,https://flixpatrol.com/title/the-kissing-booth-2,Europe,2020,7,67886004,150,"5,673","3,831","1,842",6.97,24%,61.7,59,31
+31,TV Show,The Umbrella Academy,United States of America,Superhero,2/15/2019,TRUE,83,82,CHE,https://flixpatrol.com/title/the-umbrella-academy,Europe,2019,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+31,Movie,The Kissing Booth 2,United Kingdom,Romance,7/24/2020,TRUE,62,28,SAU,https://flixpatrol.com/title/the-kissing-booth-2,Asia,2020,7,67886004,150,"5,673","3,831","1,842",6.97,24%,61.7,59,31
+31,TV Show,Good Girls,United States of America,Comedy,2/26/2018,TRUE,78,87,SAU,https://flixpatrol.com/title/good-girls,Asia,2018,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+31,Movie,The Kissing Booth 2,United Kingdom,Romance,7/24/2020,TRUE,62,28,NIC,https://flixpatrol.com/title/the-kissing-booth-2,North & South America,2020,7,67886004,150,"5,673","3,831","1,842",6.97,24%,61.7,59,31
+31,TV Show,Dark Desire,Mexico,Drama,7/15/2020,TRUE,75,0,NIC,https://flixpatrol.com/title/dark-desire,North & South America,2020,7,128932753,85,"4,316","2,958","1,358",7.05,25%,63.9,59,30
+31,Movie,Mortal Engines,United States of America,Science Fiction,11/27/2018,FALSE,64,28,NZE,https://flixpatrol.com/title/mortal-engines,Oceania,2018,11,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+31,TV Show,Good Girls,United States of America,Comedy,2/26/2018,TRUE,78,87,NZE,https://flixpatrol.com/title/good-girls,Oceania,2018,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+31,Movie,The Kissing Booth 2,United Kingdom,Romance,7/24/2020,TRUE,62,28,DNK,https://flixpatrol.com/title/the-kissing-booth-2,Europe,2020,7,67886004,150,"5,673","3,831","1,842",6.97,24%,61.7,59,31
+31,TV Show,Modern Family,United States of America,Comedy,9/23/2009,FALSE,84,0,DNK,https://flixpatrol.com/title/modern-family,Europe,2009,9,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+31,Movie,Bayi Toplantisi,Turkey,Comedy,2/20/2020,FALSE,48,0,TUR,https://flixpatrol.com/title/bayi-toplantisi,Asia,2020,2,84339067,44,"2,812","1,878",634,7.03,26%,62.6,47,30
+31,TV Show,Cursed,United States of America,Fantasy,7/17/2020,TRUE,51,69,TUR,https://flixpatrol.com/title/cursed-2020,Asia,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+31,Movie,The Kissing Booth 2,United Kingdom,Romance,7/24/2020,TRUE,62,28,AUS,https://flixpatrol.com/title/the-kissing-booth-2,Oceania,2020,7,67886004,150,"5,673","3,831","1,842",6.97,24%,61.7,59,31
+31,TV Show,Good Girls,United States of America,Comedy,2/26/2018,TRUE,78,87,AUS,https://flixpatrol.com/title/good-girls,Oceania,2018,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+31,Movie,The Kissing Booth 2,United Kingdom,Romance,7/24/2020,TRUE,62,28,LTU,https://flixpatrol.com/title/the-kissing-booth-2,Europe,2020,7,67886004,150,"5,673","3,831","1,842",6.97,24%,61.7,59,31
+31,TV Show,Cursed,United States of America,Fantasy,7/17/2020,TRUE,51,69,LTU,https://flixpatrol.com/title/cursed-2020,Europe,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+31,Movie,The Kissing Booth 2,United Kingdom,Romance,7/24/2020,TRUE,62,28,SVK,https://flixpatrol.com/title/the-kissing-booth-2,Europe,2020,7,67886004,150,"5,673","3,831","1,842",6.97,24%,61.7,59,31
+31,TV Show,Cursed,United States of America,Fantasy,7/17/2020,TRUE,51,69,SVK,https://flixpatrol.com/title/cursed-2020,Europe,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+31,Movie,The Kissing Booth 2,United Kingdom,Romance,7/24/2020,TRUE,62,28,SVN,https://flixpatrol.com/title/the-kissing-booth-2,Europe,2020,7,67886004,150,"5,673","3,831","1,842",6.97,24%,61.7,59,31
+31,TV Show,Modern Family,United States of America,Comedy,9/23/2009,FALSE,84,0,SVN,https://flixpatrol.com/title/modern-family,Europe,2009,9,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 31,Movie,The Kissing Booth 2,United Kingdom,Romance,7/24/2020,TRUE,62,28,CZE,https://flixpatrol.com/title/the-kissing-booth-2,Europe,2020,7,67886004,150,"5,673","3,831","1,842",6.97,24%,61.7,59,31
 31,TV Show,Cursed,United States of America,Fantasy,7/17/2020,TRUE,51,69,CZE,https://flixpatrol.com/title/cursed-2020,Europe,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+30,Movie,Fantastic Beasts: The Crimes of Grindelwald,United Kingdom,Fantasy,11/14/2018,FALSE,70,40,CHE,https://flixpatrol.com/title/fantastic-beasts-the-crimes-of-grindelwald,Europe,2018,11,67886004,150,"5,673","3,831","1,842",6.97,24%,61.7,59,31
+30,TV Show,Cursed,United States of America,Fantasy,7/17/2020,TRUE,51,69,CHE,https://flixpatrol.com/title/cursed-2020,Europe,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+30,Movie,MILF,France,Comedy,5/2/2018,FALSE,0,14,SAU,https://flixpatrol.com/title/milf-2018,Asia,2018,5,65273512,50,"3,978","2,639","1,339",7.07,26%,63.6,54,32
+30,TV Show,Dark Desire,Mexico,Drama,7/15/2020,TRUE,75,0,SAU,https://flixpatrol.com/title/dark-desire,Asia,2020,7,128932753,85,"4,316","2,958","1,358",7.05,25%,63.9,59,30
+30,Movie,MILF,France,Comedy,5/2/2018,FALSE,0,14,NIC,https://flixpatrol.com/title/milf-2018,North & South America,2018,5,65273512,50,"3,978","2,639","1,339",7.07,26%,63.6,54,32
+30,TV Show,Dark Desire,Mexico,Drama,7/15/2020,TRUE,75,0,NIC,https://flixpatrol.com/title/dark-desire,North & South America,2020,7,128932753,85,"4,316","2,958","1,358",7.05,25%,63.9,59,30
+30,Movie,The Grinch,United States of America,Animated,11/8/2018,FALSE,63,58,NZE,https://flixpatrol.com/title/dr-seuss-how-the-grinch-stole-christmas,Oceania,2018,11,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+30,TV Show,Cursed,United States of America,Fantasy,7/17/2020,TRUE,51,69,NZE,https://flixpatrol.com/title/cursed-2020,Oceania,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+30,Movie,Venom,United States of America,Superhero,10/3/2018,FALSE,71,29,DNK,https://flixpatrol.com/title/venom-2018,Europe,2018,10,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+30,TV Show,Cursed,United States of America,Fantasy,7/17/2020,TRUE,51,69,DNK,https://flixpatrol.com/title/cursed-2020,Europe,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+30,Movie,MILF,France,Comedy,5/2/2018,FALSE,0,14,TUR,https://flixpatrol.com/title/milf-2018,Asia,2018,5,65273512,50,"3,978","2,639","1,339",7.07,26%,63.6,54,32
+30,TV Show,Cursed,United States of America,Fantasy,7/17/2020,TRUE,51,69,TUR,https://flixpatrol.com/title/cursed-2020,Asia,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+30,Movie,The Grinch,United States of America,Animated,11/8/2018,FALSE,63,58,AUS,https://flixpatrol.com/title/dr-seuss-how-the-grinch-stole-christmas,Oceania,2018,11,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+30,TV Show,Cursed,United States of America,Fantasy,7/17/2020,TRUE,51,69,AUS,https://flixpatrol.com/title/cursed-2020,Oceania,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+30,Movie,MILF,France,Comedy,5/2/2018,FALSE,0,14,LTU,https://flixpatrol.com/title/milf-2018,Europe,2018,5,65273512,50,"3,978","2,639","1,339",7.07,26%,63.6,54,32
+30,TV Show,Cursed,United States of America,Fantasy,7/17/2020,TRUE,51,69,LTU,https://flixpatrol.com/title/cursed-2020,Europe,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+30,Movie,MILF,France,Comedy,5/2/2018,FALSE,0,14,SVK,https://flixpatrol.com/title/milf-2018,Europe,2018,5,65273512,50,"3,978","2,639","1,339",7.07,26%,63.6,54,32
+30,TV Show,Cursed,United States of America,Fantasy,7/17/2020,TRUE,51,69,SVK,https://flixpatrol.com/title/cursed-2020,Europe,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+30,Movie,Jurassic World: Fallen Kingdom,United States of America,Science Fiction,6/6/2018,FALSE,67,47,SVN,https://flixpatrol.com/title/jurassic-world-fallen-kingdom,Europe,2018,6,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+30,TV Show,Cursed,United States of America,Fantasy,7/17/2020,TRUE,51,69,SVN,https://flixpatrol.com/title/cursed-2020,Europe,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 30,Movie,MILF,France,Comedy,5/2/2018,FALSE,0,14,CZE,https://flixpatrol.com/title/milf-2018,Europe,2018,5,65273512,50,"3,978","2,639","1,339",7.07,26%,63.6,54,32
 30,TV Show,Cursed,United States of America,Fantasy,7/17/2020,TRUE,51,69,CZE,https://flixpatrol.com/title/cursed-2020,Europe,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+29,Movie,The Old Guard,United States of America,Superhero,7/10/2020,TRUE,82,80,CHE,https://flixpatrol.com/title/the-old-guard,Europe,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+29,TV Show,Snowpiercer,United States of America,Science Fiction,5/17/2020,TRUE,61,62,CHE,https://flixpatrol.com/title/snowpiercer-2020,Europe,2020,5,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+29,Movie,The Old Guard,United States of America,Superhero,7/10/2020,TRUE,82,80,SAU,https://flixpatrol.com/title/the-old-guard,Asia,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+29,TV Show,Queen of the South,United States of America,Drama,6/23/2016,FALSE,77,0,SAU,https://flixpatrol.com/title/queen-of-the-south,Asia,2016,6,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+29,Movie,The Old Guard,United States of America,Superhero,7/10/2020,TRUE,82,80,NIC,https://flixpatrol.com/title/the-old-guard,North & South America,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+29,TV Show,Dark Desire,Mexico,Drama,7/15/2020,TRUE,75,0,NIC,https://flixpatrol.com/title/dark-desire,North & South America,2020,7,128932753,85,"4,316","2,958","1,358",7.05,25%,63.9,59,30
+29,Movie,"10,000 BC",United States of America,Adventure,3/5/2008,FALSE,51,0,NZE,https://flixpatrol.com/title/10000-bc,Oceania,2008,3,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+29,TV Show,Warrior Nun,United States of America,Fantasy,7/2/2020,TRUE,69,0,NZE,https://flixpatrol.com/title/warrior-nun,Oceania,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+29,Movie,The Old Guard,United States of America,Superhero,7/10/2020,TRUE,82,80,DNK,https://flixpatrol.com/title/the-old-guard,Europe,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+29,TV Show,Warrior Nun,United States of America,Fantasy,7/2/2020,TRUE,69,0,DNK,https://flixpatrol.com/title/warrior-nun,Europe,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+29,Movie,The Old Guard,United States of America,Superhero,7/10/2020,TRUE,82,80,TUR,https://flixpatrol.com/title/the-old-guard,Asia,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+29,TV Show,Exatlon Challenge,Turkey,Unknown,7/3/2020,FALSE,0,0,TUR,https://flixpatrol.com/title/exatlon-challenge,Asia,2020,7,84339067,44,"2,812","1,878",634,7.03,26%,62.6,47,30
+29,Movie,The Old Guard,United States of America,Superhero,7/10/2020,TRUE,82,80,AUS,https://flixpatrol.com/title/the-old-guard,Oceania,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+29,TV Show,Warrior Nun,United States of America,Fantasy,7/2/2020,TRUE,69,0,AUS,https://flixpatrol.com/title/warrior-nun,Oceania,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+29,Movie,The Old Guard,United States of America,Superhero,7/10/2020,TRUE,82,80,LTU,https://flixpatrol.com/title/the-old-guard,Europe,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+29,Documentary TV,The Business of Drugs,United States of America,Documentary,7/14/2020,TRUE,70,0,LTU,https://flixpatrol.com/title/the-business-of-drugs,Europe,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+29,Movie,The Old Guard,United States of America,Superhero,7/10/2020,TRUE,82,80,SVK,https://flixpatrol.com/title/the-old-guard,Europe,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+29,TV Show,Warrior Nun,United States of America,Fantasy,7/2/2020,TRUE,69,0,SVK,https://flixpatrol.com/title/warrior-nun,Europe,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+29,Movie,The Old Guard,United States of America,Superhero,7/10/2020,TRUE,82,80,SVN,https://flixpatrol.com/title/the-old-guard,Europe,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+29,TV Show,Warrior Nun,United States of America,Fantasy,7/2/2020,TRUE,69,0,SVN,https://flixpatrol.com/title/warrior-nun,Europe,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 29,Movie,The Old Guard,United States of America,Superhero,7/10/2020,TRUE,82,80,CZE,https://flixpatrol.com/title/the-old-guard,Europe,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 29,TV Show,Warrior Nun,United States of America,Fantasy,7/2/2020,TRUE,69,0,CZE,https://flixpatrol.com/title/warrior-nun,Europe,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+28,Movie,Desperados,United States of America,Comedy,7/3/2020,TRUE,51,15,CHE,https://flixpatrol.com/title/desperados-2020,Europe,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+28,TV Show,Warrior Nun,United States of America,Fantasy,7/2/2020,TRUE,69,0,CHE,https://flixpatrol.com/title/warrior-nun,Europe,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+28,Movie,The Mask,United States of America,Comedy,7/29/1994,FALSE,69,77,SAU,https://flixpatrol.com/title/the-mask,Asia,1994,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+28,TV Show,Dark,Germany,Mystery,12/1/2017,TRUE,87,94,SAU,https://flixpatrol.com/title/dark-2017,Asia,2017,12,83783945,84,"3,995","2,763","1,232",7.01,24%,62.9,62,32
+28,Movie,American Assassin,United States of America,Action,9/14/2017,FALSE,70,35,NIC,https://flixpatrol.com/title/american-assassin,North & South America,2017,9,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+28,TV Show,Dark,Germany,Mystery,12/1/2017,TRUE,87,94,NIC,https://flixpatrol.com/title/dark-2017,North & South America,2017,12,83783945,84,"3,995","2,763","1,232",7.01,24%,62.9,62,32
+28,Movie,Spider-Man: Homecoming,United States of America,Superhero,7/5/2017,FALSE,75,92,NZE,https://flixpatrol.com/title/spider-man-homecoming,Oceania,2017,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+28,TV Show,Warrior Nun,United States of America,Fantasy,7/2/2020,TRUE,69,0,NZE,https://flixpatrol.com/title/warrior-nun,Oceania,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+28,Movie,It: Chapter 2,United States of America,Horror,9/5/2019,FALSE,70,63,DNK,https://flixpatrol.com/title/it-chapter-2,Europe,2019,9,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+28,TV Show,Warrior Nun,United States of America,Fantasy,7/2/2020,TRUE,69,0,DNK,https://flixpatrol.com/title/warrior-nun,Europe,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+28,Movie,Eltilerin Savaşi,Turkey,Comedy,1/31/2020,FALSE,60,0,TUR,https://flixpatrol.com/title/eltilerin-savaşi,Asia,2020,1,84339067,44,"2,812","1,878",634,7.03,26%,62.6,47,30
+28,TV Show,Exatlon Challenge,Turkey,Unknown,7/3/2020,FALSE,0,0,TUR,https://flixpatrol.com/title/exatlon-challenge,Asia,2020,7,84339067,44,"2,812","1,878",634,7.03,26%,62.6,47,30
+28,Movie,The Lorax,United States of America,Animated,3/1/2012,FALSE,65,53,AUS,https://flixpatrol.com/title/the-lorax,Oceania,2012,3,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+28,TV Show,Warrior Nun,United States of America,Fantasy,7/2/2020,TRUE,69,0,AUS,https://flixpatrol.com/title/warrior-nun,Oceania,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+28,Movie,Eurovision Song Contest: The Story of Fire Saga,United States of America,Comedy,6/26/2020,TRUE,78,63,LTU,https://flixpatrol.com/title/eurovision-song-contest-the-story-of-fire-saga,Europe,2020,6,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+28,TV Show,Warrior Nun,United States of America,Fantasy,7/2/2020,TRUE,69,0,LTU,https://flixpatrol.com/title/warrior-nun,Europe,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+28,Movie,365 Days,Poland,Romance,6/7/2020,FALSE,35,0,SVK,https://flixpatrol.com/title/365-days,Europe,2020,6,37846605,145,"3,398","2,317","1,081",6.98,24%,64,54,29
+28,TV Show,Warrior Nun,United States of America,Fantasy,7/2/2020,TRUE,69,0,SVK,https://flixpatrol.com/title/warrior-nun,Europe,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+28,Movie,Desperados,United States of America,Comedy,7/3/2020,TRUE,51,15,SVN,https://flixpatrol.com/title/desperados-2020,Europe,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+28,TV Show,Warrior Nun,United States of America,Fantasy,7/2/2020,TRUE,69,0,SVN,https://flixpatrol.com/title/warrior-nun,Europe,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 28,Movie,365 Days,Poland,Romance,6/7/2020,FALSE,35,0,CZE,https://flixpatrol.com/title/365-days,Europe,2020,6,37846605,145,"3,398","2,317","1,081",6.98,24%,64,54,29
 28,TV Show,Warrior Nun,United States of America,Fantasy,7/2/2020,TRUE,69,0,CZE,https://flixpatrol.com/title/warrior-nun,Europe,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+27,Movie,365 Days,Poland,Romance,6/7/2020,FALSE,35,0,CHE,https://flixpatrol.com/title/365-days,Europe,2020,6,37846605,145,"3,398","2,317","1,081",6.98,24%,64,54,29
+27,TV Show,The Blacklist,United States of America,Crime,9/23/2013,TRUE,81,91,CHE,https://flixpatrol.com/title/the-blacklist,Europe,2013,9,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+27,Movie,The Mask,United States of America,Comedy,7/29/1994,FALSE,69,77,SAU,https://flixpatrol.com/title/the-mask,Asia,1994,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+27,TV Show,Dark,Germany,Mystery,12/1/2017,TRUE,87,94,SAU,https://flixpatrol.com/title/dark-2017,Asia,2017,12,83783945,84,"3,995","2,763","1,232",7.01,24%,62.9,62,32
+27,Movie,Wonder Woman,United States of America,Animated,3/3/2009,FALSE,74,0,NIC,https://flixpatrol.com/title/wonder-woman,North & South America,2009,3,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+27,TV Show,Dark,Germany,Mystery,12/1/2017,TRUE,87,94,NIC,https://flixpatrol.com/title/dark-2017,North & South America,2017,12,83783945,84,"3,995","2,763","1,232",7.01,24%,62.9,62,32
+27,Movie,Eurovision Song Contest: The Story of Fire Saga,United States of America,Comedy,6/26/2020,TRUE,78,63,NZE,https://flixpatrol.com/title/eurovision-song-contest-the-story-of-fire-saga,Oceania,2020,6,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+27,TV Show,The Sinner,United States of America,Crime,8/2/2017,TRUE,80,90,NZE,https://flixpatrol.com/title/the-sinner,Oceania,2017,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+27,Movie,The Son of Bigfoot,Belgium,Animated,7/27/2017,FALSE,61,75,DNK,https://flixpatrol.com/title/the-son-of-bigfoot,Europe,2017,7,11589616,5,"4,121","2,777","1,344",7.05,26%,62.4,62,30
+27,TV Show,Unsolved Mysteries,United States of America,Documentary,7/1/2020,TRUE,80,74,DNK,https://flixpatrol.com/title/unsolved-mysteries-2020,Europe,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+27,Movie,Silence Is Welcome,Mexico,Drama,3/15/2017,FALSE,46,0,TUR,https://flixpatrol.com/title/silence-is-welcome,Asia,2017,3,128932753,85,"4,316","2,958","1,358",7.05,25%,63.9,59,30
+27,TV Show,Dark,Germany,Mystery,12/1/2017,TRUE,87,94,TUR,https://flixpatrol.com/title/dark-2017,Asia,2017,12,83783945,84,"3,995","2,763","1,232",7.01,24%,62.9,62,32
+27,Movie,Jumanji: Welcome to the Jungle,United States of America,Adventure,12/20/2017,FALSE,69,76,AUS,https://flixpatrol.com/title/jumanji-welcome-to-the-jungle,Oceania,2017,12,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+27,TV Show,The Sinner,United States of America,Crime,8/2/2017,TRUE,80,90,AUS,https://flixpatrol.com/title/the-sinner,Oceania,2017,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+27,Movie,Eurovision Song Contest: The Story of Fire Saga,United States of America,Comedy,6/26/2020,TRUE,78,63,LTU,https://flixpatrol.com/title/eurovision-song-contest-the-story-of-fire-saga,Europe,2020,6,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+27,TV Show,Dark,Germany,Mystery,12/1/2017,TRUE,87,94,LTU,https://flixpatrol.com/title/dark-2017,Europe,2017,12,83783945,84,"3,995","2,763","1,232",7.01,24%,62.9,62,32
+27,Movie,365 Days,Poland,Romance,6/7/2020,FALSE,35,0,SVK,https://flixpatrol.com/title/365-days,Europe,2020,6,37846605,145,"3,398","2,317","1,081",6.98,24%,64,54,29
+27,TV Show,Dark,Germany,Mystery,12/1/2017,TRUE,87,94,SVK,https://flixpatrol.com/title/dark-2017,Europe,2017,12,83783945,84,"3,995","2,763","1,232",7.01,24%,62.9,62,32
+27,Movie,Eurovision Song Contest: The Story of Fire Saga,United States of America,Comedy,6/26/2020,TRUE,78,63,SVN,https://flixpatrol.com/title/eurovision-song-contest-the-story-of-fire-saga,Europe,2020,6,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+27,TV Show,Dark,Germany,Mystery,12/1/2017,TRUE,87,94,SVN,https://flixpatrol.com/title/dark-2017,Europe,2017,12,83783945,84,"3,995","2,763","1,232",7.01,24%,62.9,62,32
 27,Movie,365 Days,Poland,Romance,6/7/2020,FALSE,35,0,CZE,https://flixpatrol.com/title/365-days,Europe,2020,6,37846605,145,"3,398","2,317","1,081",6.98,24%,64,54,29
 27,TV Show,Dark,Germany,Mystery,12/1/2017,TRUE,87,94,CZE,https://flixpatrol.com/title/dark-2017,Europe,2017,12,83783945,84,"3,995","2,763","1,232",7.01,24%,62.9,62,32
+26,Movie,365 Days,Poland,Romance,6/7/2020,FALSE,35,0,CHE,https://flixpatrol.com/title/365-days,Europe,2020,6,37846605,145,"3,398","2,317","1,081",6.98,24%,64,54,29
+26,TV Show,The Sinner,United States of America,Crime,8/2/2017,TRUE,80,90,CHE,https://flixpatrol.com/title/the-sinner,Europe,2017,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+26,Movie,Lost Bullet,France,Crime,6/19/2020,TRUE,62,0,SAU,https://flixpatrol.com/title/lost-bullet,Asia,2020,6,65273512,50,"3,978","2,639","1,339",7.07,26%,63.6,54,32
+37,TV Show,Doctor Stranger,South Korea,Drama,5/5/2014,FALSE,76,0,VNM,https://flixpatrol.com/title/doctor-stranger,Asia,2014,5,51640000,193,"4,065","2,838","1,227",7,21%,64.5,109,35
+26,Movie,Wonder Woman,United States of America,Superhero,5/30/2017,FALSE,75,93,NIC,https://flixpatrol.com/title/wonder-woman,North & South America,2017,5,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+26,TV Show,Dark,Germany,Mystery,12/1/2017,TRUE,87,94,NIC,https://flixpatrol.com/title/dark-2017,North & South America,2017,12,83783945,84,"3,995","2,763","1,232",7.01,24%,62.9,62,32
+26,Movie,2 Guns,United States of America,Action,8/2/2013,FALSE,68,64,NZE,https://flixpatrol.com/title/2-guns,Oceania,2013,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+26,TV Show,The Sinner,United States of America,Crime,8/2/2017,TRUE,80,90,NZE,https://flixpatrol.com/title/the-sinner,Oceania,2017,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+26,Movie,The Equalizer 2,United States of America,Action,7/19/2018,FALSE,71,51,DNK,https://flixpatrol.com/title/the-equalizer-2,Europe,2018,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+26,TV Show,The Order,United States of America,Fantasy,3/7/2019,TRUE,69,100,DNK,https://flixpatrol.com/title/the-order-2019,Europe,2019,3,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+26,Movie,One-Way to Tomorrow,Turkey,Comedy,6/19/2020,TRUE,59,0,TUR,https://flixpatrol.com/title/one-way-to-tomorrow,Asia,2020,6,84339067,44,"2,812","1,878",634,7.03,26%,62.6,47,30
+26,TV Show,Snowpiercer,United States of America,Science Fiction,5/17/2020,TRUE,61,62,TUR,https://flixpatrol.com/title/snowpiercer-2020,Asia,2020,5,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+26,Movie,365 Days,Poland,Romance,6/7/2020,FALSE,35,0,AUS,https://flixpatrol.com/title/365-days,Oceania,2020,6,37846605,145,"3,398","2,317","1,081",6.98,24%,64,54,29
+26,TV Show,The Sinner,United States of America,Crime,8/2/2017,TRUE,80,90,AUS,https://flixpatrol.com/title/the-sinner,Oceania,2017,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+26,Movie,Eurovision Song Contest: The Story of Fire Saga,United States of America,Comedy,6/26/2020,TRUE,78,63,LTU,https://flixpatrol.com/title/eurovision-song-contest-the-story-of-fire-saga,Europe,2020,6,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+26,TV Show,Dark,Germany,Mystery,12/1/2017,TRUE,87,94,LTU,https://flixpatrol.com/title/dark-2017,Europe,2017,12,83783945,84,"3,995","2,763","1,232",7.01,24%,62.9,62,32
+26,Movie,365 Days,Poland,Romance,6/7/2020,FALSE,35,0,SVK,https://flixpatrol.com/title/365-days,Europe,2020,6,37846605,145,"3,398","2,317","1,081",6.98,24%,64,54,29
+26,TV Show,The Sinner,United States of America,Crime,8/2/2017,TRUE,80,90,SVK,https://flixpatrol.com/title/the-sinner,Europe,2017,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+26,Movie,Eurovision Song Contest: The Story of Fire Saga,United States of America,Comedy,6/26/2020,TRUE,78,63,SVN,https://flixpatrol.com/title/eurovision-song-contest-the-story-of-fire-saga,Europe,2020,6,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+26,TV Show,The Sinner,United States of America,Crime,8/2/2017,TRUE,80,90,SVN,https://flixpatrol.com/title/the-sinner,Europe,2017,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 26,Movie,365 Days,Poland,Romance,6/7/2020,FALSE,35,0,CZE,https://flixpatrol.com/title/365-days,Europe,2020,6,37846605,145,"3,398","2,317","1,081",6.98,24%,64,54,29
 26,TV Show,Floor is Lava,United States of America,Reality-Show,6/19/2020,TRUE,51,83,CZE,https://flixpatrol.com/title/floor-is-lava,Europe,2020,6,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+25,Movie,365 Days,Poland,Romance,6/7/2020,FALSE,35,0,CHE,https://flixpatrol.com/title/365-days,Europe,2020,6,37846605,145,"3,398","2,317","1,081",6.98,24%,64,54,29
+25,TV Show,Rick and Morty,United States of America,Animated,12/2/2013,FALSE,93,0,CHE,https://flixpatrol.com/title/rick-and-morty,Europe,2013,12,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+25,Movie,365 Days,Poland,Romance,6/7/2020,FALSE,35,0,NZE,https://flixpatrol.com/title/365-days,Oceania,2020,6,37846605,145,"3,398","2,317","1,081",6.98,24%,64,54,29
+25,TV Show,Marcella,United Kingdom,Crime,4/4/2016,TRUE,74,65,NZE,https://flixpatrol.com/title/marcella,Oceania,2016,4,67886004,150,"5,673","3,831","1,842",6.97,24%,61.7,59,31
+25,Movie,365 Days,Poland,Romance,6/7/2020,FALSE,35,0,DNK,https://flixpatrol.com/title/365-days,Europe,2020,6,37846605,145,"3,398","2,317","1,081",6.98,24%,64,54,29
+25,TV Show,Alexa & Katie,United States of America,Comedy,3/23/2018,TRUE,75,88,DNK,https://flixpatrol.com/title/alexa-katie,Europe,2018,3,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+25,Movie,Biz Böyleyiz,Turkey,Drama,1/1/2020,FALSE,61,0,TUR,https://flixpatrol.com/title/biz-boyleyiz,Asia,2020,1,84339067,44,"2,812","1,878",634,7.03,26%,62.6,47,30
+25,TV Show,Snowpiercer,United States of America,Science Fiction,5/17/2020,TRUE,61,62,TUR,https://flixpatrol.com/title/snowpiercer-2020,Asia,2020,5,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+25,Movie,365 Days,Poland,Romance,6/7/2020,FALSE,35,0,AUS,https://flixpatrol.com/title/365-days,Oceania,2020,6,37846605,145,"3,398","2,317","1,081",6.98,24%,64,54,29
+25,TV Show,13 Reasons Why,United States of America,Drama,3/31/2017,TRUE,84,39,AUS,https://flixpatrol.com/title/13-reasons-why,Oceania,2017,3,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+25,Movie,365 Days,Poland,Romance,6/7/2020,FALSE,35,0,SVK,https://flixpatrol.com/title/365-days,Europe,2020,6,37846605,145,"3,398","2,317","1,081",6.98,24%,64,54,29
+25,TV Show,13 Reasons Why,United States of America,Drama,3/31/2017,TRUE,84,39,SVK,https://flixpatrol.com/title/13-reasons-why,Europe,2017,3,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 25,Movie,365 Days,Poland,Romance,6/7/2020,FALSE,35,0,CZE,https://flixpatrol.com/title/365-days,Europe,2020,6,37846605,145,"3,398","2,317","1,081",6.98,24%,64,54,29
 25,TV Show,13 Reasons Why,United States of America,Drama,3/31/2017,TRUE,84,39,CZE,https://flixpatrol.com/title/13-reasons-why,Europe,2017,3,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+24,Movie,365 Days,Poland,Romance,6/7/2020,FALSE,35,0,CHE,https://flixpatrol.com/title/365-days,Europe,2020,6,37846605,145,"3,398","2,317","1,081",6.98,24%,64,54,29
+24,TV Show,13 Reasons Why,United States of America,Drama,3/31/2017,TRUE,84,39,CHE,https://flixpatrol.com/title/13-reasons-why,Europe,2017,3,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+24,Movie,365 Days,Poland,Romance,6/7/2020,FALSE,35,0,NZE,https://flixpatrol.com/title/365-days,Oceania,2020,6,37846605,145,"3,398","2,317","1,081",6.98,24%,64,54,29
+24,TV Show,13 Reasons Why,United States of America,Drama,3/31/2017,TRUE,84,39,NZE,https://flixpatrol.com/title/13-reasons-why,Oceania,2017,3,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+24,Movie,365 Days,Poland,Romance,6/7/2020,FALSE,35,0,DNK,https://flixpatrol.com/title/365-days,Europe,2020,6,37846605,145,"3,398","2,317","1,081",6.98,24%,64,54,29
+24,TV Show,13 Reasons Why,United States of America,Drama,3/31/2017,TRUE,84,39,DNK,https://flixpatrol.com/title/13-reasons-why,Europe,2017,3,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+24,Movie,365 Days,Poland,Romance,6/7/2020,FALSE,35,0,TUR,https://flixpatrol.com/title/365-days,Asia,2020,6,37846605,145,"3,398","2,317","1,081",6.98,24%,64,54,29
+24,TV Show,Snowpiercer,United States of America,Science Fiction,5/17/2020,TRUE,61,62,TUR,https://flixpatrol.com/title/snowpiercer-2020,Asia,2020,5,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+24,Movie,365 Days,Poland,Romance,6/7/2020,FALSE,35,0,AUS,https://flixpatrol.com/title/365-days,Oceania,2020,6,37846605,145,"3,398","2,317","1,081",6.98,24%,64,54,29
+24,TV Show,13 Reasons Why,United States of America,Drama,3/31/2017,TRUE,84,39,AUS,https://flixpatrol.com/title/13-reasons-why,Oceania,2017,3,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+24,Movie,365 Days,Poland,Romance,6/7/2020,FALSE,35,0,SVK,https://flixpatrol.com/title/365-days,Europe,2020,6,37846605,145,"3,398","2,317","1,081",6.98,24%,64,54,29
+24,TV Show,13 Reasons Why,United States of America,Drama,3/31/2017,TRUE,84,39,SVK,https://flixpatrol.com/title/13-reasons-why,Europe,2017,3,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 24,Movie,365 Days,Poland,Romance,6/7/2020,FALSE,35,0,CZE,https://flixpatrol.com/title/365-days,Europe,2020,6,37846605,145,"3,398","2,317","1,081",6.98,24%,64,54,29
 24,TV Show,13 Reasons Why,United States of America,Drama,3/31/2017,TRUE,84,39,CZE,https://flixpatrol.com/title/13-reasons-why,Europe,2017,3,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+23,Movie,War for the Planet of the Apes,United States of America,Science Fiction,7/11/2017,FALSE,75,93,CHE,https://flixpatrol.com/title/war-for-the-planet-of-the-apes,Europe,2017,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+23,TV Show,Space Force,United States of America,Comedy,5/29/2020,TRUE,70,41,CHE,https://flixpatrol.com/title/space-force,Europe,2020,5,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+23,Movie,King Arthur: Legend of the Sword,United States of America,Fantasy,3/22/2017,FALSE,67,31,NZE,https://flixpatrol.com/title/king-arthur-legend-of-the-sword,Oceania,2017,3,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+23,TV Show,Space Force,United States of America,Comedy,5/29/2020,TRUE,70,41,NZE,https://flixpatrol.com/title/space-force,Oceania,2020,5,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+23,Movie,Get Hard,United States of America,Comedy,3/27/2015,FALSE,61,29,DNK,https://flixpatrol.com/title/get-hard,Europe,2015,3,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+23,TV Show,Space Force,United States of America,Comedy,5/29/2020,TRUE,70,41,DNK,https://flixpatrol.com/title/space-force,Europe,2020,5,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+23,Movie,Overnight Republic,Turkey,Comedy,4/20/2017,FALSE,59,0,TUR,https://flixpatrol.com/title/overnight-republic,Asia,2017,4,84339067,44,"2,812","1,878",634,7.03,26%,62.6,47,30
+23,TV Show,Snowpiercer,United States of America,Science Fiction,5/17/2020,TRUE,61,62,TUR,https://flixpatrol.com/title/snowpiercer-2020,Asia,2020,5,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+23,Movie,King Arthur: Legend of the Sword,United States of America,Fantasy,3/22/2017,FALSE,67,31,AUS,https://flixpatrol.com/title/king-arthur-legend-of-the-sword,Oceania,2017,3,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+23,TV Show,Space Force,United States of America,Comedy,5/29/2020,TRUE,70,41,AUS,https://flixpatrol.com/title/space-force,Oceania,2020,5,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+23,Movie,Venom,United States of America,Superhero,10/3/2018,FALSE,71,29,SVK,https://flixpatrol.com/title/venom-2018,Europe,2018,10,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+23,TV Show,Space Force,United States of America,Comedy,5/29/2020,TRUE,70,41,SVK,https://flixpatrol.com/title/space-force,Europe,2020,5,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 23,Movie,Venom,United States of America,Superhero,10/3/2018,FALSE,71,29,CZE,https://flixpatrol.com/title/venom-2018,Europe,2018,10,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 23,TV Show,Space Force,United States of America,Comedy,5/29/2020,TRUE,70,41,CZE,https://flixpatrol.com/title/space-force,Europe,2020,5,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+22,Movie,8 Mile,United States of America,Drama,11/8/2002,FALSE,70,76,CHE,https://flixpatrol.com/title/8-mile,Europe,2002,11,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+22,TV Show,Dynasty,United States of America,Drama,10/11/2017,TRUE,59,80,CHE,https://flixpatrol.com/title/dynasty-2017,Europe,2017,10,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+22,Movie,The Meg,United States of America,Horror,8/10/2018,FALSE,67,46,NZE,https://flixpatrol.com/title/the-meg,Oceania,2018,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+22,TV Show,White Lines,United Kingdom,Crime,5/15/2020,TRUE,61,64,NZE,https://flixpatrol.com/title/white-lines,Oceania,2020,5,67886004,150,"5,673","3,831","1,842",6.97,24%,61.7,59,31
+22,Movie,Johnny English Strikes Again,United Kingdom,Comedy,9/13/2018,FALSE,66,34,DNK,https://flixpatrol.com/title/johnny-english-3,Europe,2018,9,67886004,150,"5,673","3,831","1,842",6.97,24%,61.7,59,31
+22,TV Show,Snowpiercer,United States of America,Science Fiction,5/17/2020,TRUE,61,62,DNK,https://flixpatrol.com/title/snowpiercer-2020,Europe,2020,5,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+22,Movie,No Way 2,Turkey,Comedy,1/1/2016,FALSE,0,0,TUR,https://flixpatrol.com/title/no-way-2,Asia,2016,1,84339067,44,"2,812","1,878",634,7.03,26%,62.6,47,30
+22,TV Show,Snowpiercer,United States of America,Science Fiction,5/17/2020,TRUE,61,62,TUR,https://flixpatrol.com/title/snowpiercer-2020,Asia,2020,5,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+22,Movie,The Kitchen,United States of America,Crime,9/20/2019,FALSE,52,21,AUS,https://flixpatrol.com/title/the-kitchen,Oceania,2019,9,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+22,Documentary TV,The Last Dance,United States of America,Documentary,4/19/2020,TRUE,94,97,AUS,https://flixpatrol.com/title/the-last-dance,Oceania,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+22,Movie,Little Feather,Slovakia,Drama,10/6/2016,FALSE,61,0,SVK,https://flixpatrol.com/title/little-feather,Europe,2016,10,5459643,1,"5,077","3,419","1,658",7.04,25%,63.4,63,31
+22,Documentary TV,History 101,United Kingdom,Documentary,5/22/2020,TRUE,60,0,SVK,https://flixpatrol.com/title/history-101,Europe,2020,5,67886004,150,"5,673","3,831","1,842",6.97,24%,61.7,59,31
 22,Movie,Harry Potter and the Philosopher's Stone,United Kingdom,Fantasy,11/4/2001,FALSE,75,0,CZE,https://flixpatrol.com/title/harry-potter-and-the-philosophers-stone,Europe,2001,11,67886004,150,"5,673","3,831","1,842",6.97,24%,61.7,59,31
 22,Documentary TV,History 101,United Kingdom,Documentary,5/22/2020,TRUE,60,0,CZE,https://flixpatrol.com/title/history-101,Europe,2020,5,67886004,150,"5,673","3,831","1,842",6.97,24%,61.7,59,31
+21,Movie,The Wrong Missy,United States of America,Comedy,5/13/2020,TRUE,56,25,CHE,https://flixpatrol.com/title/the-wrong-missy,Europe,2020,5,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+21,TV Show,White Lines,United Kingdom,Crime,5/15/2020,TRUE,61,64,CHE,https://flixpatrol.com/title/white-lines,Europe,2020,5,67886004,150,"5,673","3,831","1,842",6.97,24%,61.7,59,31
+21,Movie,Night School,United States of America,Comedy,9/27/2018,FALSE,56,27,NZE,https://flixpatrol.com/title/night-school-2018,Oceania,2018,9,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+21,Documentary TV,The Last Dance,United States of America,Documentary,4/19/2020,TRUE,94,97,NZE,https://flixpatrol.com/title/the-last-dance,Oceania,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+21,Movie,Bumblebee,United States of America,Science Fiction,12/15/2018,FALSE,73,93,DNK,https://flixpatrol.com/title/bumblebee,Europe,2018,12,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+21,Documentary TV,The Last Dance,United States of America,Documentary,4/19/2020,TRUE,94,97,DNK,https://flixpatrol.com/title/the-last-dance,Europe,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+21,Movie,Portrait of a Beauty,Turkey,Horror,12/13/2019,FALSE,0,0,TUR,https://flixpatrol.com/title/portrait-of-a-beauty,Asia,2019,12,84339067,44,"2,812","1,878",634,7.03,26%,62.6,47,30
+21,Documentary TV,The Last Dance,United States of America,Documentary,4/19/2020,TRUE,94,97,TUR,https://flixpatrol.com/title/the-last-dance,Asia,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+21,Movie,Night School,United States of America,Comedy,9/27/2018,FALSE,56,27,AUS,https://flixpatrol.com/title/night-school-2018,Oceania,2018,9,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+21,Documentary TV,The Last Dance,United States of America,Documentary,4/19/2020,TRUE,94,97,AUS,https://flixpatrol.com/title/the-last-dance,Oceania,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+21,Movie,Harry Potter and the Philosopher's Stone,United Kingdom,Fantasy,11/4/2001,FALSE,75,0,SVK,https://flixpatrol.com/title/harry-potter-and-the-philosophers-stone,Europe,2001,11,67886004,150,"5,673","3,831","1,842",6.97,24%,61.7,59,31
+21,Documentary TV,The Last Dance,United States of America,Documentary,4/19/2020,TRUE,94,97,SVK,https://flixpatrol.com/title/the-last-dance,Europe,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 21,Movie,Harry Potter and the Philosopher's Stone,United Kingdom,Fantasy,11/4/2001,FALSE,75,0,CZE,https://flixpatrol.com/title/harry-potter-and-the-philosophers-stone,Europe,2001,11,67886004,150,"5,673","3,831","1,842",6.97,24%,61.7,59,31
 21,Documentary TV,The Last Dance,United States of America,Documentary,4/19/2020,TRUE,94,97,CZE,https://flixpatrol.com/title/the-last-dance,Europe,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+20,Movie,The Wrong Missy,United States of America,Comedy,5/13/2020,TRUE,56,25,CHE,https://flixpatrol.com/title/the-wrong-missy,Europe,2020,5,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+20,Documentary TV,The Last Dance,United States of America,Documentary,4/19/2020,TRUE,94,97,CHE,https://flixpatrol.com/title/the-last-dance,Europe,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+20,Movie,The Wrong Missy,United States of America,Comedy,5/13/2020,TRUE,56,25,NZE,https://flixpatrol.com/title/the-wrong-missy,Oceania,2020,5,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+20,Documentary TV,The Last Dance,United States of America,Documentary,4/19/2020,TRUE,94,97,NZE,https://flixpatrol.com/title/the-last-dance,Oceania,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+20,Movie,The Wrong Missy,United States of America,Comedy,5/13/2020,TRUE,56,25,DNK,https://flixpatrol.com/title/the-wrong-missy,Europe,2020,5,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+20,Documentary TV,The Last Dance,United States of America,Documentary,4/19/2020,TRUE,94,97,DNK,https://flixpatrol.com/title/the-last-dance,Europe,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+20,Movie,Spider-Man: Homecoming,United States of America,Superhero,7/5/2017,FALSE,75,92,TUR,https://flixpatrol.com/title/spider-man-homecoming,Asia,2017,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+20,TV Show,Valeria,Spain,Drama,5/8/2020,TRUE,58,0,TUR,https://flixpatrol.com/title/valeria,Asia,2020,5,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
+20,Movie,The Wrong Missy,United States of America,Comedy,5/13/2020,TRUE,56,25,AUS,https://flixpatrol.com/title/the-wrong-missy,Oceania,2020,5,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+20,Documentary TV,The Last Dance,United States of America,Documentary,4/19/2020,TRUE,94,97,AUS,https://flixpatrol.com/title/the-last-dance,Oceania,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+20,Movie,The Wrong Missy,United States of America,Comedy,5/13/2020,TRUE,56,25,SVK,https://flixpatrol.com/title/the-wrong-missy,Europe,2020,5,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+20,Documentary TV,The Last Dance,United States of America,Documentary,4/19/2020,TRUE,94,97,SVK,https://flixpatrol.com/title/the-last-dance,Europe,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 20,Movie,Ženská na vrcholu,Czechia,Comedy,11/7/2019,FALSE,72,0,CZE,https://flixpatrol.com/title/zenska-na-vrcholu,Europe,2019,11,10708982,5,"5,064","3,413","1,651",7.05,25%,63.4,63,31
 20,TV Show,Too Hot to Handle,United States of America,Reality-Show,4/17/2020,TRUE,42,37,CZE,https://flixpatrol.com/title/too-hot-to-handle,Europe,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+19,Movie,Dangerous Lies,United States of America,Thriller,4/30/2020,TRUE,57,41,CHE,https://flixpatrol.com/title/dangerous-lies,Europe,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+19,Documentary TV,The Last Dance,United States of America,Documentary,4/19/2020,TRUE,94,97,CHE,https://flixpatrol.com/title/the-last-dance,Europe,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+19,Movie,Dangerous Lies,United States of America,Thriller,4/30/2020,TRUE,57,41,NZE,https://flixpatrol.com/title/dangerous-lies,Oceania,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+19,Documentary TV,The Last Dance,United States of America,Documentary,4/19/2020,TRUE,94,97,NZE,https://flixpatrol.com/title/the-last-dance,Oceania,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+19,Movie,Focus,United States of America,Crime,2/27/2015,FALSE,66,56,DNK,https://flixpatrol.com/title/focus,Europe,2015,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+19,Documentary TV,The Last Dance,United States of America,Documentary,4/19/2020,TRUE,94,97,DNK,https://flixpatrol.com/title/the-last-dance,Europe,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+19,Movie,You've Got Murder,Turkey,Crime,10/25/2019,FALSE,71,0,TUR,https://flixpatrol.com/title/youve-got-murder,Asia,2019,10,84339067,44,"2,812","1,878",634,7.03,26%,62.6,47,30
+19,TV Show,Love 101,Turkey,Comedy,4/24/2020,TRUE,74,0,TUR,https://flixpatrol.com/title/love-101,Asia,2020,4,84339067,44,"2,812","1,878",634,7.03,26%,62.6,47,30
+19,Movie,Mission: Impossible - Fallout,United States of America,Action,7/13/2018,FALSE,80,97,AUS,https://flixpatrol.com/title/mission-impossible-fallout,Oceania,2018,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+19,Documentary TV,The Last Dance,United States of America,Documentary,4/19/2020,TRUE,94,97,AUS,https://flixpatrol.com/title/the-last-dance,Oceania,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+19,Movie,Extraction,United States of America,Action,4/24/2020,TRUE,70,68,SVK,https://flixpatrol.com/title/extraction-2020,Europe,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+19,Documentary TV,The Last Dance,United States of America,Documentary,4/19/2020,TRUE,94,97,SVK,https://flixpatrol.com/title/the-last-dance,Europe,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 19,Movie,Ženská na vrcholu,Czechia,Comedy,11/7/2019,FALSE,72,0,CZE,https://flixpatrol.com/title/zenska-na-vrcholu,Europe,2019,11,10708982,5,"5,064","3,413","1,651",7.05,25%,63.4,63,31
 19,TV Show,Too Hot to Handle,United States of America,Reality-Show,4/17/2020,TRUE,42,37,CZE,https://flixpatrol.com/title/too-hot-to-handle,Europe,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+18,Movie,Extraction,United States of America,Action,4/24/2020,TRUE,70,68,CHE,https://flixpatrol.com/title/extraction-2020,Europe,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+18,TV Show,Never Have I Ever,United States of America,Comedy,4/27/2020,TRUE,78,98,CHE,https://flixpatrol.com/title/never-have-i-ever,Europe,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+18,Movie,Extraction,United States of America,Action,4/24/2020,TRUE,70,68,NZE,https://flixpatrol.com/title/extraction-2020,Oceania,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+18,TV Show,Never Have I Ever,United States of America,Comedy,4/27/2020,TRUE,78,98,NZE,https://flixpatrol.com/title/never-have-i-ever,Oceania,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+18,Movie,Extraction,United States of America,Action,4/24/2020,TRUE,70,68,DNK,https://flixpatrol.com/title/extraction-2020,Europe,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+18,TV Show,Never Have I Ever,United States of America,Comedy,4/27/2020,TRUE,78,98,DNK,https://flixpatrol.com/title/never-have-i-ever,Europe,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+18,Movie,Extraction,United States of America,Action,4/24/2020,TRUE,70,68,TUR,https://flixpatrol.com/title/extraction-2020,Asia,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+18,TV Show,Love 101,Turkey,Comedy,4/24/2020,TRUE,74,0,TUR,https://flixpatrol.com/title/love-101,Asia,2020,4,84339067,44,"2,812","1,878",634,7.03,26%,62.6,47,30
+18,Movie,Extraction,United States of America,Action,4/24/2020,TRUE,70,68,AUS,https://flixpatrol.com/title/extraction-2020,Oceania,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+18,Documentary TV,The Last Dance,United States of America,Documentary,4/19/2020,TRUE,94,97,AUS,https://flixpatrol.com/title/the-last-dance,Oceania,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+18,Movie,Extraction,United States of America,Action,4/24/2020,TRUE,70,68,SVK,https://flixpatrol.com/title/extraction-2020,Europe,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+18,TV Show,Too Hot to Handle,United States of America,Reality-Show,4/17/2020,TRUE,42,37,SVK,https://flixpatrol.com/title/too-hot-to-handle,Europe,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 18,Movie,Extraction,United States of America,Action,4/24/2020,TRUE,70,68,CZE,https://flixpatrol.com/title/extraction-2020,Europe,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 18,TV Show,Too Hot to Handle,United States of America,Reality-Show,4/17/2020,TRUE,42,37,CZE,https://flixpatrol.com/title/too-hot-to-handle,Europe,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+17,Movie,Rising High,Germany,Comedy,4/17/2020,TRUE,61,0,CHE,https://flixpatrol.com/title/rising-high,Europe,2020,4,83783945,84,"3,995","2,763","1,232",7.01,24%,62.9,62,32
+17,TV Show,Too Hot to Handle,United States of America,Reality-Show,4/17/2020,TRUE,42,37,CHE,https://flixpatrol.com/title/too-hot-to-handle,Europe,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+17,Movie,Furious 7,United States of America,Action,4/3/2015,FALSE,74,80,NZE,https://flixpatrol.com/title/furious-7,Oceania,2015,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+17,TV Show,Too Hot to Handle,United States of America,Reality-Show,4/17/2020,TRUE,42,37,NZE,https://flixpatrol.com/title/too-hot-to-handle,Oceania,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+17,Movie,Extraction,United States of America,Action,4/24/2020,TRUE,70,68,DNK,https://flixpatrol.com/title/extraction-2020,Europe,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+17,TV Show,Too Hot to Handle,United States of America,Reality-Show,4/17/2020,TRUE,42,37,DNK,https://flixpatrol.com/title/too-hot-to-handle,Europe,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+17,Movie,Recep Ivedik 6,Turkey,Comedy,11/7/2019,FALSE,28,0,TUR,https://flixpatrol.com/title/recep-ivedik-6,Asia,2019,11,84339067,44,"2,812","1,878",634,7.03,26%,62.6,47,30
+17,TV Show,Too Hot to Handle,United States of America,Reality-Show,4/17/2020,TRUE,42,37,TUR,https://flixpatrol.com/title/too-hot-to-handle,Asia,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+17,Movie,Furious 7,United States of America,Action,4/3/2015,FALSE,74,80,AUS,https://flixpatrol.com/title/furious-7,Oceania,2015,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+17,TV Show,Too Hot to Handle,United States of America,Reality-Show,4/17/2020,TRUE,42,37,AUS,https://flixpatrol.com/title/too-hot-to-handle,Oceania,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+17,Movie,Earth and Blood,France,Action,4/17/2020,TRUE,50,0,SVK,https://flixpatrol.com/title/earth-and-blood,Europe,2020,4,65273512,50,"3,978","2,639","1,339",7.07,26%,63.6,54,32
+17,TV Show,Too Hot to Handle,United States of America,Reality-Show,4/17/2020,TRUE,42,37,SVK,https://flixpatrol.com/title/too-hot-to-handle,Europe,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 17,Movie,Bikers,Czechia,Comedy,10/19/2017,FALSE,64,0,CZE,https://flixpatrol.com/title/bikers,Europe,2017,10,10708982,5,"5,064","3,413","1,651",7.05,25%,63.4,63,31
 17,TV Show,Too Hot to Handle,United States of America,Reality-Show,4/17/2020,TRUE,42,37,CZE,https://flixpatrol.com/title/too-hot-to-handle,Europe,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+16,Movie,The Meg,United States of America,Horror,8/10/2018,FALSE,67,46,CHE,https://flixpatrol.com/title/the-meg,Europe,2018,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+16,TV Show,Money Heist,Spain,Action,5/2/2017,TRUE,84,93,CHE,https://flixpatrol.com/title/money-heist,Europe,2017,5,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
+16,Movie,Code 8,Canada,Science Fiction,12/6/2019,FALSE,61,79,NZE,https://flixpatrol.com/title/code-8,Oceania,2019,12,37742157,13,"5,730","4,043","1,687",6.95,23%,61.4,66,30
+16,Documentary TV,"Tiger King: Murder, Mayhem and Madness",United States of America,Documentary,3/20/2020,TRUE,81,0,NZE,https://flixpatrol.com/title/tiger-king-murder-mayhem-and-madness,Oceania,2020,3,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+16,Movie,Code 8,Canada,Science Fiction,12/6/2019,FALSE,61,79,DNK,https://flixpatrol.com/title/code-8,Europe,2019,12,37742157,13,"5,730","4,043","1,687",6.95,23%,61.4,66,30
+16,Documentary TV,"Tiger King: Murder, Mayhem and Madness",United States of America,Documentary,3/20/2020,TRUE,81,0,DNK,https://flixpatrol.com/title/tiger-king-murder-mayhem-and-madness,Europe,2020,3,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+16,Movie,Recep Ivedik 6,Turkey,Comedy,11/7/2019,FALSE,28,0,TUR,https://flixpatrol.com/title/recep-ivedik-6,Asia,2019,11,84339067,44,"2,812","1,878",634,7.03,26%,62.6,47,30
+16,TV Show,Money Heist,Spain,Action,5/2/2017,TRUE,84,93,TUR,https://flixpatrol.com/title/money-heist,Asia,2017,5,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
+16,Movie,Code 8,Canada,Science Fiction,12/6/2019,FALSE,61,79,AUS,https://flixpatrol.com/title/code-8,Oceania,2019,12,37742157,13,"5,730","4,043","1,687",6.95,23%,61.4,66,30
+16,Documentary TV,"Tiger King: Murder, Mayhem and Madness",United States of America,Documentary,3/20/2020,TRUE,81,0,AUS,https://flixpatrol.com/title/tiger-king-murder-mayhem-and-madness,Oceania,2020,3,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+16,Movie,Love. Wedding. Repeat,Italy,Comedy,4/10/2020,TRUE,55,34,SVK,https://flixpatrol.com/title/love-wedding-repeat,Europe,2020,4,60461828,23,"3,526","2,452","1,074",7.05,26%,63.7,73,29
+16,TV Show,Money Heist,Spain,Action,5/2/2017,TRUE,84,93,SVK,https://flixpatrol.com/title/money-heist,Europe,2017,5,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
 16,Movie,Love. Wedding. Repeat,Italy,Comedy,4/10/2020,TRUE,55,34,CZE,https://flixpatrol.com/title/love-wedding-repeat,Europe,2020,4,60461828,23,"3,526","2,452","1,074",7.05,26%,63.7,73,29
 16,TV Show,Money Heist,Spain,Action,5/2/2017,TRUE,84,93,CZE,https://flixpatrol.com/title/money-heist,Europe,2017,5,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
+15,Documentary,Money Heist: The Phenomenon,Spain,Documentary,4/3/2020,TRUE,78,0,CHE,https://flixpatrol.com/title/money-heist-the-phenomenon,Europe,2020,4,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
+15,TV Show,Money Heist,Spain,Action,5/2/2017,TRUE,84,93,CHE,https://flixpatrol.com/title/money-heist,Europe,2017,5,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
+15,Movie,Coffee & Kareem,United States of America,Comedy,4/3/2020,TRUE,50,19,NZE,https://flixpatrol.com/title/coffee-kareem,Oceania,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+15,Documentary TV,"Tiger King: Murder, Mayhem and Madness",United States of America,Documentary,3/20/2020,TRUE,81,0,NZE,https://flixpatrol.com/title/tiger-king-murder-mayhem-and-madness,Oceania,2020,3,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+15,Movie,Coffee & Kareem,United States of America,Comedy,4/3/2020,TRUE,50,19,DNK,https://flixpatrol.com/title/coffee-kareem,Europe,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+15,Documentary TV,"Tiger King: Murder, Mayhem and Madness",United States of America,Documentary,3/20/2020,TRUE,81,0,DNK,https://flixpatrol.com/title/tiger-king-murder-mayhem-and-madness,Europe,2020,3,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+15,Documentary,Money Heist: The Phenomenon,Spain,Documentary,4/3/2020,TRUE,78,0,TUR,https://flixpatrol.com/title/money-heist-the-phenomenon,Asia,2020,4,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
+15,TV Show,Money Heist,Spain,Action,5/2/2017,TRUE,84,93,TUR,https://flixpatrol.com/title/money-heist,Asia,2017,5,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
+15,Movie,Coffee & Kareem,United States of America,Comedy,4/3/2020,TRUE,50,19,AUS,https://flixpatrol.com/title/coffee-kareem,Oceania,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+15,Documentary TV,"Tiger King: Murder, Mayhem and Madness",United States of America,Documentary,3/20/2020,TRUE,81,0,AUS,https://flixpatrol.com/title/tiger-king-murder-mayhem-and-madness,Oceania,2020,3,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+15,Documentary,Money Heist: The Phenomenon,Spain,Documentary,4/3/2020,TRUE,78,0,SVK,https://flixpatrol.com/title/money-heist-the-phenomenon,Europe,2020,4,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
+15,TV Show,Money Heist,Spain,Action,5/2/2017,TRUE,84,93,SVK,https://flixpatrol.com/title/money-heist,Europe,2017,5,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
 15,Documentary,Money Heist: The Phenomenon,Spain,Documentary,4/3/2020,TRUE,78,0,CZE,https://flixpatrol.com/title/money-heist-the-phenomenon,Europe,2020,4,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
 15,TV Show,Money Heist,Spain,Action,5/2/2017,TRUE,84,93,CZE,https://flixpatrol.com/title/money-heist,Europe,2017,5,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
+14,Movie,The Platform,Spain,Science Fiction,3/20/2020,TRUE,73,0,CHE,https://flixpatrol.com/title/the-platform,Europe,2020,3,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
+14,TV Show,Unorthodox,Germany,Drama,3/26/2020,TRUE,75,95,CHE,https://flixpatrol.com/title/unorthodox,Europe,2020,3,83783945,84,"3,995","2,763","1,232",7.01,24%,62.9,62,32
+14,Movie,Coffee & Kareem,United States of America,Comedy,4/3/2020,TRUE,50,19,NZE,https://flixpatrol.com/title/coffee-kareem,Oceania,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+14,Documentary TV,"Tiger King: Murder, Mayhem and Madness",United States of America,Documentary,3/20/2020,TRUE,81,0,NZE,https://flixpatrol.com/title/tiger-king-murder-mayhem-and-madness,Oceania,2020,3,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+14,Movie,Godzilla: King of the Monsters,United States of America,Science Fiction,5/29/2019,FALSE,67,43,DNK,https://flixpatrol.com/title/godzilla-king-of-the-monsters-2019,Europe,2019,5,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+14,Documentary TV,"Tiger King: Murder, Mayhem and Madness",United States of America,Documentary,3/20/2020,TRUE,81,0,DNK,https://flixpatrol.com/title/tiger-king-murder-mayhem-and-madness,Europe,2020,3,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+14,Movie,The Platform,Spain,Science Fiction,3/20/2020,TRUE,73,0,TUR,https://flixpatrol.com/title/the-platform,Asia,2020,3,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
+14,TV Show,Freud,Austria,Drama,3/15/2020,TRUE,67,50,TUR,https://flixpatrol.com/title/freud,Asia,2020,3,9006400,12,"3,878","2,690","1,188",7.03,24%,63.1,63,32
+14,Movie,Northmen: A Viking Saga,Switzerland,Unknown,7/31/2015,FALSE,53,0,AUS,https://flixpatrol.com/title/northmen-a-viking-saga,Oceania,2015,7,8654618,1,"4,593","3,109","1,484",7.01,24%,61.6,85,34
+14,Documentary TV,"Tiger King: Murder, Mayhem and Madness",United States of America,Documentary,3/20/2020,TRUE,81,0,AUS,https://flixpatrol.com/title/tiger-king-murder-mayhem-and-madness,Oceania,2020,3,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+14,Movie,The Platform,Spain,Science Fiction,3/20/2020,TRUE,73,0,SVK,https://flixpatrol.com/title/the-platform,Europe,2020,3,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
+14,TV Show,Toy Boy,Spain,Crime,9/7/2019,TRUE,65,0,SVK,https://flixpatrol.com/title/toy-boy-2019,Europe,2019,9,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
 14,Movie,The Platform,Spain,Science Fiction,3/20/2020,TRUE,73,0,CZE,https://flixpatrol.com/title/the-platform,Europe,2020,3,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
 14,TV Show,Love is Blind,United States of America,Reality-Show,2/13/2020,TRUE,56,70,CZE,https://flixpatrol.com/title/love-is-blind-2020,Europe,2020,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+13,Movie,The Platform,Spain,Science Fiction,3/20/2020,TRUE,73,0,CHE,https://flixpatrol.com/title/the-platform,Europe,2020,3,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
+13,TV Show,Elite,Spain,Crime,10/5/2018,TRUE,76,97,CHE,https://flixpatrol.com/title/elite,Europe,2018,10,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
+13,Movie,The Platform,Spain,Science Fiction,3/20/2020,TRUE,73,0,DNK,https://flixpatrol.com/title/the-platform,Europe,2020,3,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
+13,Documentary TV,"Tiger King: Murder, Mayhem and Madness",United States of America,Documentary,3/20/2020,TRUE,81,0,DNK,https://flixpatrol.com/title/tiger-king-murder-mayhem-and-madness,Europe,2020,3,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+13,Movie,Miracle in Cell No. 7,Turkey,Drama,10/10/2019,FALSE,83,0,TUR,https://flixpatrol.com/title/miracle-in-cell-no-7,Asia,2019,10,84339067,44,"2,812","1,878",634,7.03,26%,62.6,47,30
+13,TV Show,Toy Boy,Spain,Crime,9/7/2019,TRUE,65,0,TUR,https://flixpatrol.com/title/toy-boy-2019,Asia,2019,9,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
+13,Movie,The Platform,Spain,Science Fiction,3/20/2020,TRUE,73,0,AUS,https://flixpatrol.com/title/the-platform,Oceania,2020,3,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
+13,Documentary TV,"Tiger King: Murder, Mayhem and Madness",United States of America,Documentary,3/20/2020,TRUE,81,0,AUS,https://flixpatrol.com/title/tiger-king-murder-mayhem-and-madness,Oceania,2020,3,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+13,Movie,The Platform,Spain,Science Fiction,3/20/2020,TRUE,73,0,SVK,https://flixpatrol.com/title/the-platform,Europe,2020,3,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
+13,TV Show,Toy Boy,Spain,Crime,9/7/2019,TRUE,65,0,SVK,https://flixpatrol.com/title/toy-boy-2019,Europe,2019,9,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
 13,Movie,The Platform,Spain,Science Fiction,3/20/2020,TRUE,73,0,CZE,https://flixpatrol.com/title/the-platform,Europe,2020,3,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
 13,TV Show,Love is Blind,United States of America,Reality-Show,2/13/2020,TRUE,56,70,CZE,https://flixpatrol.com/title/love-is-blind-2020,Europe,2020,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+12,Movie,The Platform,Spain,Science Fiction,3/20/2020,TRUE,73,0,SVK,https://flixpatrol.com/title/the-platform,Europe,2020,3,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
+12,Documentary TV,Pandemic: How to Prevent an Outbreak,United States of America,Documentary,1/22/2020,TRUE,62,100,SVK,https://flixpatrol.com/title/pandemic-how-to-prevent-an-outbreak,Europe,2020,1,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 12,Movie,Lost Girls,United States of America,Thriller,1/28/2020,FALSE,58,64,CZE,https://flixpatrol.com/title/lost-girls,Europe,2020,1,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 12,TV Show,Love is Blind,United States of America,Reality-Show,2/13/2020,TRUE,56,70,CZE,https://flixpatrol.com/title/love-is-blind-2020,Europe,2020,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 11,Movie,Spenser Confidential,United States of America,Crime,3/6/2020,TRUE,71,37,CZE,https://flixpatrol.com/title/spenser-confidential,Europe,2020,3,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 11,TV Show,Love is Blind,United States of America,Reality-Show,2/13/2020,TRUE,56,70,CZE,https://flixpatrol.com/title/love-is-blind-2020,Europe,2020,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-,,,,,,,,,,,,,,,,,,,,,,,
-37,TV Show,Doctor Stranger,South Korea,Drama,5/5/2014,FALSE,76,0,VNM,https://flixpatrol.com/title/doctor-stranger,Asia,2014,5,51640000,193,"4,065","2,838","1,227",7,21%,64.5,109,35
-36,Movie,Catch Me If You Can,United States of America,Drama,12/25/2002,FALSE,80,96,VNM,https://flixpatrol.com/title/catch-me-if-you-can,Asia,2002,12,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 36,TV Show,The World of the Married,South Korea,Unknown,3/27/2020,FALSE,0,0,VNM,https://flixpatrol.com/title/the-world-of-the-married,Asia,2020,3,51640000,193,"4,065","2,838","1,227",7,21%,64.5,109,35
-35,Movie,Project Power,United States of America,Action,8/14/2020,TRUE,61,63,VNM,https://flixpatrol.com/title/project-power,Asia,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+36,Movie,Catch Me If You Can,United States of America,Drama,12/25/2002,FALSE,80,96,VNM,https://flixpatrol.com/title/catch-me-if-you-can,Asia,2002,12,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 35,TV Show,It's Okay to Not Be Okay,South Korea,Drama,6/20/2020,TRUE,90,0,VNM,https://flixpatrol.com/title/its-okay-to-not-be-okay,Asia,2020,6,51640000,193,"4,065","2,838","1,227",7,21%,64.5,109,35
-34,Movie,Project Power,United States of America,Action,8/14/2020,TRUE,61,63,VNM,https://flixpatrol.com/title/project-power,Asia,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+35,Movie,Project Power,United States of America,Action,8/14/2020,TRUE,61,63,VNM,https://flixpatrol.com/title/project-power,Asia,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 34,TV Show,It's Okay to Not Be Okay,South Korea,Drama,6/20/2020,TRUE,90,0,VNM,https://flixpatrol.com/title/its-okay-to-not-be-okay,Asia,2020,6,51640000,193,"4,065","2,838","1,227",7,21%,64.5,109,35
-33,Movie,Ocean's 8,United States of America,Crime,6/8/2018,FALSE,62,0,VNM,https://flixpatrol.com/title/oceans-8,Asia,2018,6,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+34,Movie,Project Power,United States of America,Action,8/14/2020,TRUE,61,63,VNM,https://flixpatrol.com/title/project-power,Asia,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 33,TV Show,It's Okay to Not Be Okay,South Korea,Drama,6/20/2020,TRUE,90,0,VNM,https://flixpatrol.com/title/its-okay-to-not-be-okay,Asia,2020,6,51640000,193,"4,065","2,838","1,227",7,21%,64.5,109,35
-32,Movie,Skyscraper,United States of America,Action,7/4/2018,FALSE,61,48,VNM,https://flixpatrol.com/title/skyscraper,Asia,2018,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+33,Movie,Ocean's 8,United States of America,Crime,6/8/2018,FALSE,62,0,VNM,https://flixpatrol.com/title/oceans-8,Asia,2018,6,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 32,TV Show,It's Okay to Not Be Okay,South Korea,Drama,6/20/2020,TRUE,90,0,VNM,https://flixpatrol.com/title/its-okay-to-not-be-okay,Asia,2020,6,51640000,193,"4,065","2,838","1,227",7,21%,64.5,109,35
-31,Movie,The Kissing Booth 2,United Kingdom,Romance,7/24/2020,TRUE,62,28,VNM,https://flixpatrol.com/title/the-kissing-booth-2,Asia,2020,7,67886004,150,"5,673","3,831","1,842",6.97,24%,61.7,59,31
+32,Movie,Skyscraper,United States of America,Action,7/4/2018,FALSE,61,48,VNM,https://flixpatrol.com/title/skyscraper,Asia,2018,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 31,TV Show,It's Okay to Not Be Okay,South Korea,Drama,6/20/2020,TRUE,90,0,VNM,https://flixpatrol.com/title/its-okay-to-not-be-okay,Asia,2020,6,51640000,193,"4,065","2,838","1,227",7,21%,64.5,109,35
+31,Movie,The Kissing Booth 2,United Kingdom,Romance,7/24/2020,TRUE,62,28,VNM,https://flixpatrol.com/title/the-kissing-booth-2,Asia,2020,7,67886004,150,"5,673","3,831","1,842",6.97,24%,61.7,59,31
 30,TV Show,It's Okay to Not Be Okay,South Korea,Drama,6/20/2020,TRUE,90,0,VNM,https://flixpatrol.com/title/its-okay-to-not-be-okay,Asia,2020,6,51640000,193,"4,065","2,838","1,227",7,21%,64.5,109,35
-29,Movie,The Old Guard,United States of America,Superhero,7/10/2020,TRUE,82,80,VNM,https://flixpatrol.com/title/the-old-guard,Asia,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 29,TV Show,It's Okay to Not Be Okay,South Korea,Drama,6/20/2020,TRUE,90,0,VNM,https://flixpatrol.com/title/its-okay-to-not-be-okay,Asia,2020,6,51640000,193,"4,065","2,838","1,227",7,21%,64.5,109,35
-28,Movie,365 Days,Poland,Romance,6/7/2020,FALSE,35,0,VNM,https://flixpatrol.com/title/365-days,Asia,2020,6,37846605,145,"3,398","2,317","1,081",6.98,24%,64,54,29
+29,Movie,The Old Guard,United States of America,Superhero,7/10/2020,TRUE,82,80,VNM,https://flixpatrol.com/title/the-old-guard,Asia,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 28,TV Show,It's Okay to Not Be Okay,South Korea,Drama,6/20/2020,TRUE,90,0,VNM,https://flixpatrol.com/title/its-okay-to-not-be-okay,Asia,2020,6,51640000,193,"4,065","2,838","1,227",7,21%,64.5,109,35
-27,Movie,Jurassic World: Fallen Kingdom,United States of America,Science Fiction,6/6/2018,FALSE,67,47,VNM,https://flixpatrol.com/title/jurassic-world-fallen-kingdom,Asia,2018,6,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+28,Movie,365 Days,Poland,Romance,6/7/2020,FALSE,35,0,VNM,https://flixpatrol.com/title/365-days,Asia,2020,6,37846605,145,"3,398","2,317","1,081",6.98,24%,64,54,29
 27,TV Show,It's Okay to Not Be Okay,South Korea,Drama,6/20/2020,TRUE,90,0,VNM,https://flixpatrol.com/title/its-okay-to-not-be-okay,Asia,2020,6,51640000,193,"4,065","2,838","1,227",7,21%,64.5,109,35
+27,Movie,Jurassic World: Fallen Kingdom,United States of America,Science Fiction,6/6/2018,FALSE,67,47,VNM,https://flixpatrol.com/title/jurassic-world-fallen-kingdom,Asia,2018,6,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
+26,TV Show,The King: Eternal Monarch,South Korea,Fantasy,4/17/2020,TRUE,87,0,SAU,https://flixpatrol.com/title/the-king-eternal-monarch,Asia,2020,4,51640000,193,"4,065","2,838","1,227",7,21%,64.5,109,35
 26,Movie,Jurassic World: Fallen Kingdom,United States of America,Science Fiction,6/6/2018,FALSE,67,47,VNM,https://flixpatrol.com/title/jurassic-world-fallen-kingdom,Asia,2018,6,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 26,TV Show,It's Okay to Not Be Okay,South Korea,Drama,6/20/2020,TRUE,90,0,VNM,https://flixpatrol.com/title/its-okay-to-not-be-okay,Asia,2020,6,51640000,193,"4,065","2,838","1,227",7,21%,64.5,109,35
 37,Movie,Sing,United States of America,Animated,12/21/2016,FALSE,73,47,BEL,https://flixpatrol.com/title/sing,Europe,2016,12,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
@@ -642,25 +641,18 @@ Week,Show Type,Title,Country,Genre,Release Date,Netflix Original,IMDb Rating,Rot
 34,TV Show,Greenleaf,United States of America,Drama,6/21/2016,TRUE,73,82,NGA,https://flixpatrol.com/title/greenleaf,Africa,2016,6,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 33,Movie,Work It,United States of America,Comedy,8/7/2020,TRUE,61,0,NGA,https://flixpatrol.com/title/work-it-2020,Africa,2020,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 33,TV Show,The Umbrella Academy,United States of America,Superhero,2/15/2019,TRUE,83,82,NGA,https://flixpatrol.com/title/the-umbrella-academy,Africa,2019,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-,,,,,,,,,,,,,,,,,,,,,,,
 32,TV Show,The Umbrella Academy,United States of America,Superhero,2/15/2019,TRUE,83,82,NGA,https://flixpatrol.com/title/the-umbrella-academy,Africa,2019,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-,,,,,,,,,,,,,,,,,,,,,,,
 31,TV Show,Cursed,United States of America,Fantasy,7/17/2020,TRUE,51,69,NGA,https://flixpatrol.com/title/cursed-2020,Africa,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-,,,,,,,,,,,,,,,,,,,,,,,
 30,TV Show,Cursed,United States of America,Fantasy,7/17/2020,TRUE,51,69,NGA,https://flixpatrol.com/title/cursed-2020,Africa,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 29,Movie,The Old Guard,United States of America,Superhero,7/10/2020,TRUE,82,80,NGA,https://flixpatrol.com/title/the-old-guard,Africa,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 29,TV Show,Warrior Nun,United States of America,Fantasy,7/2/2020,TRUE,69,0,NGA,https://flixpatrol.com/title/warrior-nun,Africa,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-,,,,,,,,,,,,,,,,,,,,,,,
 28,TV Show,Warrior Nun,United States of America,Fantasy,7/2/2020,TRUE,69,0,NGA,https://flixpatrol.com/title/warrior-nun,Africa,2020,7,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-,,,,,,,,,,,,,,,,,,,,,,,
 27,TV Show,The King: Eternal Monarch,South Korea,Fantasy,4/17/2020,TRUE,87,0,NGA,https://flixpatrol.com/title/the-king-eternal-monarch,Africa,2020,4,51640000,193,"4,065","2,838","1,227",7,21%,64.5,109,35
-,,,,,,,,,,,,,,,,,,,,,,,
 26,TV Show,The King: Eternal Monarch,South Korea,Fantasy,4/17/2020,TRUE,87,0,NGA,https://flixpatrol.com/title/the-king-eternal-monarch,Africa,2020,4,51640000,193,"4,065","2,838","1,227",7,21%,64.5,109,35
 25,Movie,365 Days,Poland,Romance,6/7/2020,FALSE,35,0,NGA,https://flixpatrol.com/title/365-days,Africa,2020,6,37846605,145,"3,398","2,317","1,081",6.98,24%,64,54,29
 25,TV Show,The King: Eternal Monarch,South Korea,Fantasy,4/17/2020,TRUE,87,0,NGA,https://flixpatrol.com/title/the-king-eternal-monarch,Africa,2020,4,51640000,193,"4,065","2,838","1,227",7,21%,64.5,109,35
 24,Movie,365 Days,Poland,Romance,6/7/2020,FALSE,35,0,NGA,https://flixpatrol.com/title/365-days,Africa,2020,6,37846605,145,"3,398","2,317","1,081",6.98,24%,64,54,29
 24,TV Show,The King: Eternal Monarch,South Korea,Fantasy,4/17/2020,TRUE,87,0,NGA,https://flixpatrol.com/title/the-king-eternal-monarch,Africa,2020,4,51640000,193,"4,065","2,838","1,227",7,21%,64.5,109,35
-,,,,,,,,,,,,,,,,,,,,,,,
 23,TV Show,The King: Eternal Monarch,South Korea,Fantasy,4/17/2020,TRUE,87,0,NGA,https://flixpatrol.com/title/the-king-eternal-monarch,Africa,2020,4,51640000,193,"4,065","2,838","1,227",7,21%,64.5,109,35
 37,Movie,I'm Thinking of Ending Things,United States of America,Thriller,9/4/2020,TRUE,88,85,RUS,https://flixpatrol.com/title/im-thinking-of-ending-things,Europe,2020,9,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 37,TV Show,Away,United States of America,Science Fiction,9/4/2020,TRUE,71,73,RUS,https://flixpatrol.com/title/away-2020,Europe,2020,9,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
@@ -1408,7 +1400,6 @@ Week,Show Type,Title,Country,Genre,Release Date,Netflix Original,IMDb Rating,Rot
 17,TV Show,Too Hot to Handle,United States of America,Reality-Show,4/17/2020,TRUE,42,37,SGP,https://flixpatrol.com/title/too-hot-to-handle,Asia,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 16,Movie,Love. Wedding. Repeat,Italy,Comedy,4/10/2020,TRUE,55,34,SGP,https://flixpatrol.com/title/love-wedding-repeat,Asia,2020,4,60461828,23,"3,526","2,452","1,074",7.05,26%,63.7,73,29
 16,TV Show,"Hi Bye, Mama!",South Korea,Drama,4/25/2020,TRUE,82,0,SGP,https://flixpatrol.com/title/hi-bye-mama,Asia,2020,4,51640000,193,"4,065","2,838","1,227",7,21%,64.5,109,35
-,,,,,,,,,,,,,,,,,,,,,,,
 15,TV Show,Money Heist,Spain,Action,5/2/2017,TRUE,84,93,SGP,https://flixpatrol.com/title/money-heist,Asia,2017,5,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
 14,Movie,Fantastic Four,United States of America,Superhero,8/7/2015,FALSE,43,9,SGP,https://flixpatrol.com/title/fantastic-four-2015,Asia,2015,8,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 14,TV Show,Itaewon Class,South Korea,Drama,1/31/2020,TRUE,84,93,SGP,https://flixpatrol.com/title/itaewon-class,Asia,2020,1,51640000,193,"4,065","2,838","1,227",7,21%,64.5,109,35
@@ -1956,9 +1947,7 @@ Week,Show Type,Title,Country,Genre,Release Date,Netflix Original,IMDb Rating,Rot
 19,Documentary TV,The Last Dance,United States of America,Documentary,4/19/2020,TRUE,94,97,DOM,https://flixpatrol.com/title/the-last-dance,North & South America,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 18,Movie,Extraction,United States of America,Action,4/24/2020,TRUE,70,68,DOM,https://flixpatrol.com/title/extraction-2020,North & South America,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 18,TV Show,Never Have I Ever,United States of America,Comedy,4/27/2020,TRUE,78,98,DOM,https://flixpatrol.com/title/never-have-i-ever,North & South America,2020,4,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
-,,,,,,,,,,,,,,,,,,,,,,,
 17,TV Show,El Dragón: Return of a Warrior,Mexico,Action,10/4/2019,TRUE,70,0,DOM,https://flixpatrol.com/title/el-dragon-return-of-a-warrior,North & South America,2019,10,128932753,85,"4,316","2,958","1,358",7.05,25%,63.9,59,30
-,,,,,,,,,,,,,,,,,,,,,,,
 16,TV Show,Blindspot,United States of America,Crime,9/21/2015,FALSE,74,0,DOM,https://flixpatrol.com/title/blindspot-2015,North & South America,2015,9,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 15,Movie,Journey 2: The Mysterious Island,United States of America,Adventure,2/10/2012,FALSE,58,43,DOM,https://flixpatrol.com/title/journey-2-the-mysterious-island,North & South America,2012,2,331002647,1808,"5,879","4,035","1,844",6.95,23%,62.9,60,32
 15,TV Show,Money Heist,Spain,Action,5/2/2017,TRUE,84,93,DOM,https://flixpatrol.com/title/money-heist,North & South America,2017,5,46754783,218,"3,522","2,359","1,163",7.12,27%,64.3,53,31
