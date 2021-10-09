@@ -1,0 +1,143 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 800,
+    "height": 600,
+    "title": "Which Countries Have Trending Films in Their Netflix Libraries?",
+    "data": {
+        "url": "https://raw.githubusercontent.com/bjohn732/FIT3179_HomeworkW10/main/data/NF_all.csv"
+    },
+    "params": [
+        {
+            "name": "Continent_selection",
+            "bind": {
+                "input": "select",
+                "options": [
+                    null,
+                    "North America",
+                    "South America",
+                    "Europe",
+                    "Africa",
+                    "Asia",
+                    "Oceania"
+                    ],
+                "labels":[
+                    "Show All",
+                    "North America",
+                    "South America",
+                    "Europe",
+                    "Africa",
+                    "Asia",
+                    "Oceania"
+                    ],
+                "name": "Continent Selection: "
+            }           
+        }
+    ],
+    "transform": [
+        {"filter": "Continent_selection == null || datum.Continent == Continent_selection"}
+    ],
+    "encoding": {
+    "x": {
+        "field": "Total Titles Available on Netflix",
+        "type": "quantitative",
+        "axis": {"tickCount":8},
+        "scale": {"domain": [2000, 6000]}
+    },
+    "y": {
+        "field": "Total Films",
+        "type": "quantitative",
+        "title": "No. Trending Films",
+        "axis": {"tickCount":8},
+        "scale": {"domain": [1500, 4500]}
+    }
+    },
+    "layer":[
+        {
+            "mark": "circle",
+            "encoding": {
+                "size": {
+                    "field": "Trend Count",
+                    "type": "quantitative",
+                    "scale": {
+                        "type": "threshold",
+                        "domain": [1, 10, 50, 100, 500, 1000],
+                        "range": [10, 50, 150, 200, 300, 400]
+                    },
+                    "legend": {"format": ".1s"}
+                },
+                "color": {
+                    "field": "Continent",
+                    "type": "nominal",
+                    "scale": {
+                        "domain": [
+                        "North America",
+                        "South America",
+                        "Europe",
+                        "Africa",
+                        "Asia",
+                        "Oceania"
+                    ],
+                    "range": [
+                        "#e41a1c",
+                        "#984ea3",
+                        "#ff7f00",
+                        "#a6cee3",
+                        "#377eb8",
+                        "#a65628"
+                        ]  
+                    }
+                },
+                "opacity": {
+                    "value": 0.6
+                },
+                "tooltip": [
+                    {"field": "Country", "type": "nominal"},
+                    {"field": "Population", "type": "quantitative", "format": ","},
+                    {"field": "Trend Count", "type": "quantitative", "format": ","},
+                    {"field": "Total Films", "type": "quantitative", "format": ","},
+                    {
+                        "field": "Total Titles Available on Netflix", 
+                        "type": "quantitative", 
+                        "format": ",", 
+                        "title": "Title Count in Netflix Library"
+                    }
+                ]
+            }
+        },
+        {
+            "mark": {
+                "type": "text",
+                "align": "right",
+                "baseline": "middle",
+                "dx": -12,
+                "fontSize": 11.5,
+                "fontStyle": "italic"
+            },
+            "encoding": {
+                "text": {"field": "Country", "type": "nominal"},
+                "color": {"value": "black"},
+                "opacity": {
+                "condition": {
+                    "test": "datum['Country'] == 'Singapore' || datum['Country'] == 'Malaysia'",
+                    "value": 1
+                },
+                "value":  0
+            },
+            "tooltip": [
+                {"field": "Country", "type": "nominal"},
+                {"field": "Population", "type": "quantitative", "format": ","},
+                {"field": "Trend Count", "type": "quantitative", "format": ","},
+                {"field": "Total Films", "type": "quantitative", "format": ","},
+                {
+                    "field": "Total Titles Available on Netflix", 
+                    "type": "quantitative", 
+                    "format": ",", 
+                    "title": "Title Count in Netflix Library"
+                    }
+                ] 
+            }     
+        }
+    ]
+}
+
+   
